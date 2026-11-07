@@ -1,0 +1,11 @@
+﻿reading,surface,candidate_id,audit_class,source_url,review_evidence,other_readings_with_hits
+えーぶいえるき,AVL木,c0060,verified_miss,https://xlinux.nist.gov/dads/HTML/avltree.html,https://e-words.jp/w/AVL木.html,[]
+へいこうぎ,平衡木,c0071,verified_miss,https://xlinux.nist.gov/dads/HTML/balancedtree.html,https://e-words.jp/w/平衡木.html,[]
+にぶんたんさくぎ,二分探索木,c0095,verified_miss,https://xlinux.nist.gov/dads/HTML/binarySearchTree.html,https://e-words.jp/w/二分探索木.html,[]
+にぶんぎ,二分木,c0096,verified_miss,https://xlinux.nist.gov/dads/HTML/binarytree.html,https://e-words.jp/w/二分木.html,[]
+びーき,B木,c0143,verified_miss,https://xlinux.nist.gov/dads/HTML/btree.html,https://e-words.jp/w/B木.html,[]
+ゆうこうひじゅんかいぐらふ,有向非巡回グラフ,c0283,verified_miss,https://xlinux.nist.gov/dads/HTML/directAcycGraph.html,https://e-words.jp/w/有向非巡回グラフ.html,[]
+にすと,NIST,c0643,verified_miss,https://xlinux.nist.gov/dads/HTML/nist.html,https://e-words.jp/w/NIST.html,"[{""reading"": ""えぬあいえすてぃー"", ""status"": ""topN"", ""rank"": ""2""}]"
+ふぁいふぉ,FIFO,dads-0423-abbr-alternate,verified_miss,https://xlinux.nist.gov/dads/HTML/queue.html,https://e-words.jp/w/FIFO.html,[]
+らいふぉ,LIFO,dads-0626-abbr-alternate,verified_miss,https://xlinux.nist.gov/dads/HTML/stack.html,https://e-words.jp/w/LIFO.html,[]
+あんじー,ANSI,c0038-alternate,verified_miss,https://xlinux.nist.gov/dads/HTML/ansi.html,https://e-words.jp/w/ANSI.html,"[{""reading"": ""あんし"", ""status"": ""beyond_topN"", ""rank"": ""24""}, {""reading"": ""えーえぬえすあい"", ""status"": ""topN"", ""rank"": ""2""}]"

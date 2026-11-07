@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-11-07T02:28:19+00:00",
+  "index_rows": 1306,
+  "concepts": 1123,
+  "candidates": 1191,
+  "unique_surface_reading_pairs": 1187,
+  "statuses": {
+    "topN": 300,
+    "not_observed_exhausted": 264,
+    "top1": 592,
+    "not_measured": 26,
+    "beyond_topN": 9
+  },
+  "reading_disagreements": 51,
+  "input_sha256": "502f9aaab96a0bc1c2eb5fb4b2f97e8c3318f91899c2193eb2f225a4e61cbc3c",
+  "platform": "macOS-27.2-arm64-arm-64bit",
+  "software": {
+    "fugashi": "1.5.2",
+    "unidic-lite": "1.0.8",
+    "sudachipy": "0.6.11",
+    "sudachidict_core": "20260723"
+  }
+}

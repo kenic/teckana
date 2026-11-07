@@ -1,0 +1,106 @@
+[
+  {
+    "candidate_id": "c0096",
+    "surface": "二分木",
+    "reading": "にぶんぎ",
+    "url": "https://e-words.jp/w/二分木.html",
+    "checked_at": "2026-11-07T02:21:58+00:00",
+    "scope": "Individual existing DADS candidate correspondence and displayed reading only; no definitions harvested"
+  },
+  {
+    "candidate_id": "c0095",
+    "surface": "二分探索木",
+    "reading": "にぶんたんさくぎ",
+    "url": "https://e-words.jp/w/二分探索木.html",
+    "checked_at": "2026-11-07T02:21:58+00:00",
+    "scope": "Individual existing DADS candidate correspondence and displayed reading only; no definitions harvested"
+  },
+  {
+    "candidate_id": "c0833",
+    "surface": "赤黒木",
+    "reading": "あかくろぎ",
+    "url": "https://e-words.jp/w/赤黒木.html",
+    "checked_at": "2026-11-07T02:21:58+00:00",
+    "scope": "Individual existing DADS candidate correspondence and displayed reading only; no definitions harvested"
+  },
+  {
+    "candidate_id": "c0060",
+    "surface": "AVL木",
+    "reading": "えーぶいえるき",
+    "url": "https://e-words.jp/w/AVL木.html",
+    "checked_at": "2026-11-07T02:21:58+00:00",
+    "scope": "Individual existing DADS candidate correspondence and displayed reading only; no definitions harvested"
+  },
+  {
+    "candidate_id": "c0071",
+    "surface": "平衡木",
+    "reading": "へいこうぎ",
+    "url": "https://e-words.jp/w/平衡木.html",
+    "checked_at": "2026-11-07T02:21:58+00:00",
+    "scope": "Individual existing DADS candidate correspondence and displayed reading only; no definitions harvested"
+  },
+  {
+    "candidate_id": "c0143",
+    "surface": "B木",
+    "reading": "びーき",
+    "url": "https://e-words.jp/w/B木.html",
+    "checked_at": "2026-11-07T02:21:58+00:00",
+    "scope": "Individual existing DADS candidate correspondence and displayed reading only; no definitions harvested"
+  },
+  {
+    "candidate_id": "c0283",
+    "surface": "有向非巡回グラフ",
+    "reading": "ゆうこうひじゅんかいぐらふ",
+    "url": "https://e-words.jp/w/有向非巡回グラフ.html",
+    "checked_at": "2026-11-07T02:21:58+00:00",
+    "scope": "Individual existing DADS candidate correspondence and displayed reading only; no definitions harvested"
+  },
+  {
+    "candidate_id": "c0038",
+    "surface": "ANSI",
+    "reading": "あんし",
+    "url": "https://e-words.jp/w/ANSI.html",
+    "checked_at": "2026-11-07T02:23:05+00:00",
+    "scope": "Displayed acronym and reading only"
+  },
+  {
+    "candidate_id": "c0038-alternate",
+    "surface": "ANSI",
+    "reading": "あんじー",
+    "url": "https://e-words.jp/w/ANSI.html",
+    "checked_at": "2026-11-07T02:23:05+00:00",
+    "scope": "Displayed acronym and reading only"
+  },
+  {
+    "candidate_id": "c0643",
+    "surface": "NIST",
+    "reading": "にすと",
+    "url": "https://e-words.jp/w/NIST.html",
+    "checked_at": "2026-11-07T02:23:05+00:00",
+    "scope": "Displayed acronym and reading only"
+  },
+  {
+    "candidate_id": "dads-0423-abbr-alternate",
+    "surface": "FIFO",
+    "reading": "ふぁいふぉ",
+    "url": "https://e-words.jp/w/FIFO.html",
+    "checked_at": "2026-11-07T02:23:05+00:00",
+    "scope": "Displayed acronym and reading only"
+  },
+  {
+    "candidate_id": "dads-0626-abbr-alternate",
+    "surface": "LIFO",
+    "reading": "らいふぉ",
+    "url": "https://e-words.jp/w/LIFO.html",
+    "checked_at": "2026-11-07T02:23:05+00:00",
+    "scope": "Displayed acronym and reading only"
+  },
+  {
+    "candidate_id": "c0933",
+    "surface": "全域木",
+    "reading": "ぜんいきぎ",
+    "url": "https://okamoto7.hatenablog.com/entry/20061227/p1",
+    "checked_at": "2026-11-07T02:25:41+00:00",
+    "scope": "Explicit English-Japanese correspondence and reading"
+  }
+]

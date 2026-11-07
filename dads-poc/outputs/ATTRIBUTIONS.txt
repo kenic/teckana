@@ -1,0 +1,10 @@
+Source: Dictionary of Algorithms and Data Structures (DADS)
+Editor: Paul E. Black
+Institution: National Institute of Standards and Technology (NIST)
+Index: https://xlinux.nist.gov/dads/
+Rights statement: https://catalog.data.gov/dataset/dictionary-of-algorithms-and-data-structures-dads
+Collected: 2026-11-07; exact timestamp and SHA-256: data/source.json
+Scope: index headings, aliases and entry URLs only. Entry definitions, including CRC Press definitions, were not copied.
+Changes: HTML-to-text extraction, alias linkage, AI Japanese translation drafts, reading estimation/review, Mecabra measurement and candidate classification.
+Supplemental individual reading checks: data/external_checks.json. Definitions from those sources are not reproduced.
+NIST and the other cited authors have not endorsed these translations or this dictionary.

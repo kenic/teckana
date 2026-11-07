@@ -1,0 +1,11 @@
+{
+  "url": "https://xlinux.nist.gov/dads/",
+  "retrieved_at": "2026-11-07T02:10:21.101146+00:00",
+  "sha256": "88223b2bdf71e0f3f7aac7994c1f7d1cb4dcd8f55000c829d902bad9f3f86e07",
+  "index_rows": 1306,
+  "distinct_urls": 1123,
+  "alias_rows": 183,
+  "robots_http_status": 404,
+  "scope": "Index headings only; no entry definitions downloaded; CRC Press definitions not copied",
+  "rights_source": "https://catalog.data.gov/dataset/dictionary-of-algorithms-and-data-structures-dads"
+}

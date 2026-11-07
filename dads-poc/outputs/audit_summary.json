@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-11-07T02:28:20+00:00",
+  "all_rows": 1191,
+  "unique_pairs": 1187,
+  "audit_classes": {
+    "already_top15": 892,
+    "hold_translation_or_reading": 61,
+    "symbol_separate": 1,
+    "reviewed_miss": 168,
+    "unmeasured": 26,
+    "low_rank": 9,
+    "verified_miss": 10,
+    "orthography_only": 24
+  },
+  "unique_audit_classes": {
+    "already_top15": 889,
+    "hold_translation_or_reading": 60,
+    "symbol_separate": 1,
+    "reviewed_miss": 168,
+    "unmeasured": 26,
+    "low_rank": 9,
+    "verified_miss": 10,
+    "orthography_only": 24
+  },
+  "verified_export": 10,
+  "review_export": 178,
+  "reading_or_surface_changes": 127,
+  "verified_misses_with_other_reading_hits": 2,
+  "non_japanese_verified_misses": 6,
+  "notes": "All source headings processed; translations are drafts unless individually verified. Exact engine output, not GUI rank or dictionary membership. Orthographic equivalence is diagnostic only."
+}

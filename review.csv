@@ -1,0 +1,179 @@
+﻿candidate_id,reading,surface,english,status,source_url
+c0015,てきおうてきけーでぃーき,適応的k-d木,adaptive k-d tree,採用,https://xlinux.nist.gov/dads/HTML/adaptkdtree.html
+c0025,びーえすてぃーだぶりゅーあるごりずむ,BSTWアルゴリズム,algorithm BSTW,保留,https://xlinux.nist.gov/dads/HTML/algorithmBSTW.html
+c0026,えふじーけーあるごりずむ,FGKアルゴリズム,algorithm FGK,保留,https://xlinux.nist.gov/dads/HTML/algorithmFGK.html
+c0039,はんさ,反鎖,antichain,採用,https://xlinux.nist.gov/dads/HTML/antichain.html
+c0040,はんたいしょう,反対称,antisymmetric,採用,https://xlinux.nist.gov/dads/HTML/antisymmetric.html
+c0060,えーぶいえるき,AVL木,AVL tree,保留,https://xlinux.nist.gov/dads/HTML/avltree.html
+c0065,へいこうにぶんたんさくぎ,平衡二分探索木,balanced binary search tree,採用,https://xlinux.nist.gov/dads/HTML/balancedbist.html
+c0066,へいこうにぶんぎ,平衡二分木,balanced binary tree,採用,https://xlinux.nist.gov/dads/HTML/balancedbitr.html
+c0071,へいこうぎ,平衡木,balanced tree,採用,https://xlinux.nist.gov/dads/HTML/balancedtree.html
+c0073,びーえーえぬじーふぁいる,BANGファイル,BANG file,保留,https://xlinux.nist.gov/dads/HTML/bangfile.html
+c0076,びーびーぴーあるごりずむ,BBPアルゴリズム,BBP algorithm,保留,https://xlinux.nist.gov/dads/HTML/bbp.html
+c0078,びーでぃーき,BD木,BD-tree,採用,https://xlinux.nist.gov/dads/HTML/bdtree.html
+c0095,にぶんたんさくぎ,二分探索木,binary search tree,採用,https://xlinux.nist.gov/dads/HTML/binarySearchTree.html
+c0096,にぶんぎ,二分木,binary tree,採用,https://xlinux.nist.gov/dads/HTML/binarytree.html
+c0100,にこうぎ,二項木,binomial tree,採用,https://xlinux.nist.gov/dads/HTML/binomialtree.html
+c0130,びーぷらすき,B+木,B + -tree,採用,https://xlinux.nist.gov/dads/HTML/bplustree.html
+c0141,びーえすぴーき,BSP木,BSP-tree,採用,https://xlinux.nist.gov/dads/HTML/bsptree.html
+c0142,びーすたーき,B*木,B*-tree,採用,https://xlinux.nist.gov/dads/HTML/bstartree.html
+c0143,びーき,B木,B-tree,採用,https://xlinux.nist.gov/dads/HTML/btree.html
+c0153,ばろーずほいーらーへんかん,バローズ・ホイーラー変換,Burrows-Wheeler transform,採用,https://xlinux.nist.gov/dads/HTML/burrowsWheelerTransform.html
+c0155,びーぶいき,BV木,BV-tree,採用,https://xlinux.nist.gov/dads/HTML/bvtree.html
+c0193,ふごうぎ,符号木,coding tree,採用,https://xlinux.nist.gov/dads/HTML/codingTree.html
+c0236,しーてぃーえる,CTL,CTL,保留,https://xlinux.nist.gov/dads/HTML/ctl.html
+c0248,でぃーえーじーさいたんろ,DAG最短路,DAG shortest paths,保留,https://xlinux.nist.gov/dads/HTML/dagShortPath.html
+c0265,けっていせいゆうげんじょうたいきかい,決定性有限状態機械,deterministic finite state machine,採用,https://xlinux.nist.gov/dads/HTML/determFinitStateMach.html
+c0266,けっていせいゆうげんきおーとまとん,決定性有限木オートマトン,deterministic finite tree automaton,採用,https://xlinux.nist.gov/dads/HTML/determFinitTreeAutom.html
+c0268,けっていせいきおーとまとん,決定性木オートマトン,deterministic tree automaton,採用,https://xlinux.nist.gov/dads/HTML/determTreeAutom.html
+c0269,どいちゅじょざあるごりずむ,ドイチュ・ジョザアルゴリズム,Deutsch-Jozsa algorithm,採用,https://xlinux.nist.gov/dads/HTML/deutschJozsaAlgo.html
+c0277,でぃじたるたんさくぎ,ディジタル探索木,digital search tree,採用,https://xlinux.nist.gov/dads/HTML/digitalSearchTree.html
+c0283,ゆうこうひじゅんかいぐらふ,有向非巡回グラフ,directed acyclic graph,採用,https://xlinux.nist.gov/dads/HTML/directAcycGraph.html
+c0284,ゆうこうひじゅんかいごぐらふ,有向非巡回語グラフ,directed acyclic word graph,採用,https://xlinux.nist.gov/dads/HTML/directedAcyclicWordGraph.html
+c0287,りさんぴーせんたーもんだい,離散pセンター問題,discrete p-center,採用,https://xlinux.nist.gov/dads/HTML/discretpcntr.html
+c0300,にじゅうはっしゅほう,二重ハッシュ法,double hashing,保留,https://xlinux.nist.gov/dads/HTML/doublehashng.html
+c0305,でぃーき,D木,D-tree,採用,https://xlinux.nist.gov/dads/HTML/DTree.html
+c0307,そうたいせんけいけいかく,双対線形計画,dual linear program,採用,https://xlinux.nist.gov/dads/HTML/duallinear.html
+c0317,へんさいしょく,辺彩色,edge coloring,採用,https://xlinux.nist.gov/dads/HTML/edgecoloring.html
+c0319,へんこうさ,辺交差,edge crossing,採用,https://xlinux.nist.gov/dads/HTML/edgecrossing.html
+c0325,ようそいちいせい,要素一意性,element uniqueness,採用,https://xlinux.nist.gov/dads/HTML/elementnqnss.html
+c0343,かくちょうにぶんぎ,拡張二分木,extended binary tree,採用,https://xlinux.nist.gov/dads/HTML/extendedBinaryTree.html
+c0345,かくちょうけーでぃーき,拡張k-d木,extended k-d tree,採用,https://xlinux.nist.gov/dads/HTML/extendkdtree.html
+c0394,じゆうぎ,自由木,free tree,採用,https://xlinux.nist.gov/dads/HTML/freetree.html
+c0407,じーびーでぃーき,GBD木,GBD-tree,採用,https://xlinux.nist.gov/dads/HTML/gbdtree.html
+c0421,こうしびょうが,格子描画,grid drawing,採用,https://xlinux.nist.gov/dads/HTML/griddrawing.html
+c0442,たかさへいこうにぶんたんさくぎ,高さ平衡二分探索木,height-balanced binary search tree,採用,https://xlinux.nist.gov/dads/HTML/heightBalancedBinSrchTree.html
+c0443,たかさへいこうぎ,高さ平衡木,height-balanced tree,採用,https://xlinux.nist.gov/dads/HTML/heightBalancedTree.html
+c0456,はいぱーろぐろぐ,HyperLogLog,HyperLogLog,採用,https://xlinux.nist.gov/dads/HTML/hyperloglog.html
+c0463,にゅうじすう,入次数,in-degree,採用,https://xlinux.nist.gov/dads/HTML/indegree.html
+c0467,ちゅうかんじゅんそうさ,中間順走査,in-order traversal,採用,https://xlinux.nist.gov/dads/HTML/inorderTraversal.html
+c0480,くかんぎ,区間木,interval tree,採用,https://xlinux.nist.gov/dads/HTML/intervaltree.html
+c0497,じぇーそーと,Jソート,J sort,採用,https://xlinux.nist.gov/dads/HTML/j_sort.html
+c0503,けーぶんひーぷ,k分ヒープ,k-ary heap,採用,https://xlinux.nist.gov/dads/HTML/karyheap.html
+c0504,けーげんはふまんふごうか,k元ハフマン符号化,k-ary Huffman coding,採用,https://xlinux.nist.gov/dads/HTML/karyHuffman.html
+c0505,けーぶんぎ,k分木,k-ary tree,採用,https://xlinux.nist.gov/dads/HTML/karyTree.html
+c0506,けーくらすたりんぐ,kクラスタリング,k-clustering,採用,https://xlinux.nist.gov/dads/HTML/kclustering.html
+c0507,けーさいしょく,k彩色,k-coloring,採用,https://xlinux.nist.gov/dads/HTML/kcoloring.html
+c0508,けーれんけつぐらふ,k連結グラフ,k-connected graph,採用,https://xlinux.nist.gov/dads/HTML/kconnectedGraph.html
+c0509,けーでぃーびーき,k-d-B木,k-d-B-tree,採用,https://xlinux.nist.gov/dads/HTML/kdbtree.html
+c0510,けーじげん,k次元,k-dimensional,採用,https://xlinux.nist.gov/dads/HTML/kdimensional.html
+c0512,けーでぃーき,k-d木,k-d tree,採用,https://xlinux.nist.gov/dads/HTML/kdtree.html
+c0520,くりぷきこうぞう,クリプキ構造,Kripke structure,保留,https://xlinux.nist.gov/dads/HTML/kripkeStruct.html
+c0522,けーかいふぃぼなっちすう,k階フィボナッチ数,kth order Fibonacci numbers,採用,https://xlinux.nist.gov/dads/HTML/kthOrderFibonacci.html
+c0523,けーばんめさいたんろ,k番目最短路,k th shortest path,採用,https://xlinux.nist.gov/dads/HTML/kthShortestPath.html
+c0533,えるしーえふえすはっしゅほう,LCFSハッシュ法,LCFS hashing,採用,https://xlinux.nist.gov/dads/HTML/lcfsHashing.html
+c0537,さへんぎ,左偏木,leftist tree,採用,https://xlinux.nist.gov/dads/HTML/leftisttree.html
+c0541,れべるじゅんそうさ,レベル順走査,level-order traversal,採用,https://xlinux.nist.gov/dads/HTML/levelOrderTraversal.html
+c0552,せんけいしぶんぎ,線形四分木,linear quadtree,採用,https://xlinux.nist.gov/dads/HTML/linearquadtr.html
+c0568,ろとかのほうそく,ロトカの法則,Lotka's law,採用,https://xlinux.nist.gov/dads/HTML/lotkaslaw.html
+c0572,えるかんげん,L還元,l-reduction,採用,https://xlinux.nist.gov/dads/HTML/lreduction.html
+c0576,たたいいちかんげん,多対一還元,many-one reduction,採用,https://xlinux.nist.gov/dads/HTML/manyonerdctn.html
+c0591,みーりきかい,ミーリ機械,Mealy machine,採用,https://xlinux.nist.gov/dads/HTML/mealyMachine.html
+c0608,さいしょうぜんいきぎ,最小全域木,minimum spanning tree,採用,https://xlinux.nist.gov/dads/HTML/minimumSpanningTree.html
+c0634,たぶんたんさくぎ,多分探索木,multiway search tree,採用,https://xlinux.nist.gov/dads/HTML/multiwaySearchTree.html
+c0635,たぶんぎ,多分木,multiway tree,採用,https://xlinux.nist.gov/dads/HTML/multiwaytree.html
+c0638,えぬこうかんすう,n項関数,n-ary function,採用,https://xlinux.nist.gov/dads/HTML/naryfunc.html
+c0639,えぬしーたたいいちかんげんかのうせい,NC多対一還元可能性,NC many-one reducibility,採用,https://xlinux.nist.gov/dads/HTML/nCmanyone.html
+c0643,にすと,NIST,NIST,保留,https://xlinux.nist.gov/dads/HTML/nist.html
+c0649,ひけっていせいゆうげんじょうたいきかい,非決定性有限状態機械,nondeterministic finite state machine,採用,https://xlinux.nist.gov/dads/HTML/nondetermFiniteStateMach.html
+c0650,ひけっていせいゆうげんきおーとまとん,非決定性有限木オートマトン,nondeterministic finite tree automaton,採用,https://xlinux.nist.gov/dads/HTML/nondetermFiniteTreeAutom.html
+c0651,ひけっていせいきおーとまとん,非決定性木オートマトン,nondeterministic tree automaton,採用,https://xlinux.nist.gov/dads/HTML/nondetermTreeAutom.html
+c0657,えぬぴーかんぜん,NP完全,NP-complete,採用,https://xlinux.nist.gov/dads/HTML/npcomplete.html
+c0658,えぬぴーかんぜんげんご,NP完全言語,NP-complete language,採用,https://xlinux.nist.gov/dads/HTML/nPcompltlngg.html
+c0659,えぬぴーこんなん,NP困難,NP-hard,採用,https://xlinux.nist.gov/dads/HTML/nphard.html
+c0663,おーびーでぃーでぃー,OBDD,OBDD,保留,https://xlinux.nist.gov/dads/HTML/obdd.html
+c0667,はちぶんぎ,八分木,octree,採用,https://xlinux.nist.gov/dads/HTML/octree.html
+c0675,かいばんちほう,開番地法,open addressing,採用,https://xlinux.nist.gov/dads/HTML/openAddressing.html
+c0693,じゅんじょぎ,順序木,ordered tree,採用,https://xlinux.nist.gov/dads/HTML/orderedtree.html
+c0720,どうひふく,道被覆,path cover,採用,https://xlinux.nist.gov/dads/HTML/pathcover.html
+c0743,ぴーえるおーぴーはっしゅほう,PLOPハッシュ法,PLOP-hashing,保留,https://xlinux.nist.gov/dads/HTML/plophashing.html
+c0756,たそうへいごう,多相併合,polyphase merge,採用,https://xlinux.nist.gov/dads/HTML/polyphmerge.html
+c0757,たそうまーじそーと,多相マージソート,polyphase merge sort,採用,https://xlinux.nist.gov/dads/HTML/polyphmrgsrt.html
+c0762,こうこうじゅんそうさ,後行順走査,postorder traversal,採用,https://xlinux.nist.gov/dads/HTML/postorderTraversal.html
+c0768,せんこうじゅんそうさ,先行順走査,preorder traversal,採用,https://xlinux.nist.gov/dads/HTML/preorderTraversal.html
+c0787,ぴーき,P木,P-tree,採用,https://xlinux.nist.gov/dads/HTML/ptree.html
+c0791,きゅーえむそーと,qmソート,qm sort,採用,https://xlinux.nist.gov/dads/HTML/qmsort.html
+c0792,きゅーそーと,qソート,q sort,採用,https://xlinux.nist.gov/dads/HTML/qsort.html
+c0793,にじたんさくほう,二次探索法,quadratic probing,採用,https://xlinux.nist.gov/dads/HTML/quadraticprb.html
+c0794,しぶんぎ,四分木,quadtree,採用,https://xlinux.nist.gov/dads/HTML/quadtree.html
+c0805,らんたくか,乱択化,randomization,採用,https://xlinux.nist.gov/dads/HTML/randomizatn.html
+c0807,らんたくにぶんたんさくぎ,乱択二分探索木,randomized binary search tree,採用,https://xlinux.nist.gov/dads/HTML/randomizedBinarySearchTree.html
+c0808,らんたくけいさんりょう,乱択計算量,randomized complexity,採用,https://xlinux.nist.gov/dads/HTML/randomizedComplexity.html
+c0810,らんたくたんさくぎ,乱択探索木,randomized search tree,採用,https://xlinux.nist.gov/dads/HTML/randomizedSearchTree.html
+c0825,ちょっこうしゅたいなーき,直交シュタイナー木,rectilinear Steiner tree,採用,https://xlinux.nist.gov/dads/HTML/rectilinearSteinertree.html
+c0829,さいきぎ,再帰木,recursion tree,採用,https://xlinux.nist.gov/dads/HTML/recursionTree.html
+c0832,きのうてきかさんげんご,帰納的可算言語,recursively enumerable language,採用,https://xlinux.nist.gov/dads/HTML/recursivelyEnumerableLang.html
+c0834,かんやくきてい,簡約基底,reduced basis,採用,https://xlinux.nist.gov/dads/HTML/reducedbasis.html
+c0836,かんやくじゅんじょつきにぶんけっていず,簡約順序付き二分決定図,reduced ordered binary decision diagram,採用,https://xlinux.nist.gov/dads/HTML/reducedOrderedBDD.html
+c0845,くりかえしにじょうほう,繰返し二乗法,repeated squaring,採用,https://xlinux.nist.gov/dads/HTML/repeatedSquaring.html
+c0847,りざーばさんぷりんぐ,リザーバサンプリング,reservoir sampling,保留,https://xlinux.nist.gov/dads/HTML/reservoirSampling.html
+c0851,あーるふぁいる,Rファイル,R-file,採用,https://xlinux.nist.gov/dads/HTML/rfile.html
+c0857,ねつきぎ,根付き木,rooted tree,採用,https://xlinux.nist.gov/dads/HTML/rootedtree.html
+c0861,あーるぷらすき,R+木,R + -tree,採用,https://xlinux.nist.gov/dads/HTML/rplustree.html
+c0862,あーるすたーき,R*木,R * -tree,採用,https://xlinux.nist.gov/dads/HTML/rstartree.html
+c0863,あーるき,R木,R-tree,採用,https://xlinux.nist.gov/dads/HTML/rtree.html
+c0866,えすびーびーき,SBB木,SBB tree,採用,https://xlinux.nist.gov/dads/HTML/sbbtree.html
+c0871,たんさくぎ,探索木,search tree,採用,https://xlinux.nist.gov/dads/HTML/searchtree.html
+c0892,しゃのんふぁのふごうか,シャノン・ファノ符号化,Shannon-Fano coding,採用,https://xlinux.nist.gov/dads/HTML/shannonFano.html
+c0914,たんいつしてんさいたんろもんだい,単一始点最短路問題,single-source shortest-path problem,採用,https://xlinux.nist.gov/dads/HTML/singleSourceShortestPath.html
+c0929,さうんでっくす,Soundex,soundex,採用,https://xlinux.nist.gov/dads/HTML/soundex.html
+c0936,そか,疎化,sparsification,採用,https://xlinux.nist.gov/dads/HTML/sparsificatn.html
+c0937,そせい,疎性,sparsity,採用,https://xlinux.nist.gov/dads/HTML/sparsity.html
+c0943,えすえすてーぶる,SSTable,SSTable,採用,https://xlinux.nist.gov/dads/HTML/SSTable.html
+c0961,すとぅーじそーと,ストゥージソート,stooge sort,保留,https://xlinux.nist.gov/dads/HTML/stoogesort.html
+c0964,きょうぎたんちょうげんしょう,狭義単調減少,strictly decreasing,採用,https://xlinux.nist.gov/dads/HTML/strictlyDecreasing.html
+c0966,きょうぎかさんかくぎょうれつ,狭義下三角行列,strictly lower triangular matrix,採用,https://xlinux.nist.gov/dads/HTML/strictlyLowerTriangMat.html
+c0967,きょうぎじょうさんかくぎょうれつ,狭義上三角行列,strictly upper triangular matrix,採用,https://xlinux.nist.gov/dads/HTML/strictlyUpperTriangMat.html
+c0977,きょうえぬぴーこんなん,強NP困難,strongly NP-hard,採用,https://xlinux.nist.gov/dads/HTML/stronglyNP.html
+c0980,れつかほうてきえるごーどていり,劣加法的エルゴード定理,subadditive ergodic theorem,採用,https://xlinux.nist.gov/dads/HTML/subadditive.html
+c0983,れつせんけいじかんあるごりずむ,劣線形時間アルゴリズム,sublinear time algorithm,採用,https://xlinux.nist.gov/dads/HTML/sublinearTimeAlgo.html
+c0991,せつびじぎ,接尾辞木,suffix tree,採用,https://xlinux.nist.gov/dads/HTML/suffixtree.html
+c0999,ひょうひきはっしゅほう,表引きハッシュ法,tabulation hashing,採用,https://xlinux.nist.gov/dads/HTML/tabulationHashing.html
+c1006,さんぶんたんさくぎ,三分探索木,ternary search tree,採用,https://xlinux.nist.gov/dads/HTML/ternarySearchTree.html
+c1008,すれっどつきにぶんぎ,スレッド付き二分木,threaded binary tree,採用,https://xlinux.nist.gov/dads/HTML/threadedBinaryTree.html
+c1009,すれっどつきぎ,スレッド付き木,threaded tree,採用,https://xlinux.nist.gov/dads/HTML/threadedtree.html
+c1033,とりーぷ,トリープ,treap,保留,https://xlinux.nist.gov/dads/HTML/treap.html
+c1057,にさんよんき,2-3-4木,2-3-4 tree,採用,https://xlinux.nist.gov/dads/HTML/two34tree.html
+c1058,にさんき,2-3木,2-3 tree,採用,https://xlinux.nist.gov/dads/HTML/two3tree.html
+c1061,ゆーびーき,UB木,UB-tree,採用,https://xlinux.nist.gov/dads/HTML/ubtree.html
+c1064,ひゆうかいなっぷさっくもんだい,非有界ナップサック問題,unbounded knapsack problem,採用,https://xlinux.nist.gov/dads/HTML/unboundedKnapsack.html
+c1091,ちょうてんさいしょく,頂点彩色,vertex coloring,採用,https://xlinux.nist.gov/dads/HTML/vertexcolor.html
+c1098,びたびあるごりずむ,ビタビアルゴリズム,Viterbi algorithm,保留,https://xlinux.nist.gov/dads/HTML/viterbiAlgorithm.html
+c1117,れいこうかんすう,零項関数,0-ary function,採用,https://xlinux.nist.gov/dads/HTML/zeroaryfunc.html
+c1123,ぜっとぴーぴー,ZPP,ZPP,保留,https://xlinux.nist.gov/dads/HTML/zpp.html
+dads-0172-abbr,びーだぶりゅーてぃー,BWT,BWT,保留,https://xlinux.nist.gov/dads/HTML/burrowsWheelerTransform.html
+dads-0256-abbr,しーあーるいーだぶりゅー,CREW,CREW,保留,https://xlinux.nist.gov/dads/HTML/concurrentReadExcluWrt.html
+dads-0271-abbr,でぃーえーじー,DAG,DAG,保留,https://xlinux.nist.gov/dads/HTML/directAcycGraph.html
+dads-0301-abbr,でぃーえふてぃーえー,DFTA,DFTA,保留,https://xlinux.nist.gov/dads/HTML/determFinitTreeAutom.html
+dads-0341-abbr,でぃーぴーでぃーえー,DPDA,DPDA,保留,https://xlinux.nist.gov/dads/HTML/deterministicPushdownAutom.html
+dads-0342-abbr,でぃーあーるびーじー,DRBG,DRBG,保留,https://xlinux.nist.gov/dads/HTML/pseudorandomNumberGen.html
+dads-0370-abbr,いーあーるしーだぶりゅー,ERCW,ERCW,保留,https://xlinux.nist.gov/dads/HTML/exclusiveReadConWrt.html
+dads-0371-abbr,いーあーるいーだぶりゅー,EREW,EREW,保留,https://xlinux.nist.gov/dads/HTML/exclusiveReadExcluWrt.html
+dads-0423-abbr,えふあいえふおー,FIFO,FIFO,保留,https://xlinux.nist.gov/dads/HTML/queue.html
+dads-0527-abbr,あいびーえるてぃー,IBLT,IBLT,保留,https://xlinux.nist.gov/dads/HTML/invertibleBloomTable.html
+dads-0589-abbr,けーえむぴー,KMP,KMP,保留,https://xlinux.nist.gov/dads/HTML/knuthMorrisPratt.html
+dads-0614-abbr,えるしーえむ,LCM,LCM,保留,https://xlinux.nist.gov/dads/HTML/leastCommonMultiple.html
+dads-0616-abbr,えるでぃーえす,LDS,LDS,保留,https://xlinux.nist.gov/dads/HTML/linkedDataSignature.html
+dads-0626-abbr,えるあいえふおー,LIFO,LIFO,保留,https://xlinux.nist.gov/dads/HTML/stack.html
+dads-0680-abbr,えむびーびー,MBB,MBB,保留,https://xlinux.nist.gov/dads/HTML/minimumBoundingBox.html
+dads-0716-abbr,えむえすてぃー,MST,MST,保留,https://xlinux.nist.gov/dads/HTML/minimumSpanningTree.html
+dads-0896-abbr,ぴーあーるえぬじー,PRNG,PRNG,保留,https://xlinux.nist.gov/dads/HTML/pseudorandomNumberGen.html
+dads-0991-abbr,あーるえぬじー,RNG,RNG,保留,https://xlinux.nist.gov/dads/HTML/randomnumgen.html
+dads-0992-abbr,あーるおーびーでぃーでぃー,ROBDD,ROBDD,保留,https://xlinux.nist.gov/dads/HTML/reducedOrderedBDD.html
+dads-1007-abbr,えすえーえむ,SAM,SAM,保留,https://xlinux.nist.gov/dads/HTML/spatialAccessMethod.html
+dads-1097-abbr,えすぴーえむでぃー,SPMD,SPMD,保留,https://xlinux.nist.gov/dads/HTML/singleprogrm.html
+dads-1220-abbr,てぃーえすてぃー,TST,TST,保留,https://xlinux.nist.gov/dads/HTML/ternarySearchTree.html
+dads-1238-abbr,ゆーけーぴー,UKP,UKP,保留,https://xlinux.nist.gov/dads/HTML/unboundedKnapsack.html
+dads-1280-abbr,だぶりゅーしーいーてぃー,WCET,WCET,保留,https://xlinux.nist.gov/dads/HTML/worstCaseExecutionTime.html
+c0025-abbr,びーえすてぃーだぶりゅー,BSTW,BSTW,保留,https://xlinux.nist.gov/dads/HTML/algorithmBSTW.html
+c0026-abbr,えふじーけー,FGK,FGK,保留,https://xlinux.nist.gov/dads/HTML/algorithmFGK.html
+c0060-abbr,えーぶいえる,AVL,AVL,保留,https://xlinux.nist.gov/dads/HTML/avltree.html
+c0073-abbr,びーえーえぬじー,BANG,BANG,保留,https://xlinux.nist.gov/dads/HTML/bangfile.html
+c0076-abbr,びーびーぴー,BBP,BBP,保留,https://xlinux.nist.gov/dads/HTML/bbp.html
+c0155-abbr,びーぶい,BV,BV,保留,https://xlinux.nist.gov/dads/HTML/bvtree.html
+c0407-abbr,じーびーでぃー,GBD,GBD,保留,https://xlinux.nist.gov/dads/HTML/gbdtree.html
+c0533-abbr,えるしーえふえす,LCFS,LCFS,保留,https://xlinux.nist.gov/dads/HTML/lcfsHashing.html
+dads-0423-abbr-alternate,ふぁいふぉ,FIFO,FIFO,採用,https://xlinux.nist.gov/dads/HTML/queue.html
+dads-0626-abbr-alternate,らいふぉ,LIFO,LIFO,採用,https://xlinux.nist.gov/dads/HTML/stack.html
+dads-0271-abbr-alternate,だぐ,DAG,DAG,採用,https://xlinux.nist.gov/dads/HTML/directAcycGraph.html
+c0038-alternate,あんじー,ANSI,ANSI,採用,https://xlinux.nist.gov/dads/HTML/ansi.html

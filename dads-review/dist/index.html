@@ -1,0 +1,11 @@
+<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>DADS 用語レビュー</title><link rel="stylesheet" href="style.css"></head><body>
+<header><div class="brand">辞 <span>日本語情報科学辞書</span></div><div id="save" role="status">保存状態を確認中</div></header>
+<main><section class="intro"><p class="eyebrow">DADS · DICTIONARY REVIEW</p><h1>一発で変換したい、<br class="mobile">その言葉を選ぶ。</h1><p>178件の候補に判定とコメントを付けてください。候補は消さず、採用分だけを取り出せます。</p></section>
+<section class="stats" aria-label="レビューの進み具合"></section><div class="progress"><div id="bar"></div></div>
+<div class="toolbar"><label class="search"><span>検索</span><input id="search" type="search" placeholder="用語・読み・英語・コメント" autocomplete="off"></label><label>確認の強さ<select id="confidence"><option value="all">すべて</option><option value="verified_miss">外部根拠あり（10件）</option><option value="reviewed_miss">AI点検（168件）</option></select></label><button id="export" class="primary">全件の判定CSVを書き出す</button></div>
+<nav id="filters" aria-label="判定で絞り込み"></nav><div class="listhead"><span id="count"></span><span>初期状態は未確認 · どの判定も後から変更できます</span></div>
+<div id="list"></div><p id="empty" hidden>該当する候補はありません。検索条件を変えてみてください。</p>
+<section class="backup"><div><h2>チェック結果を手元に残す</h2><p>同じブラウザに自動保存します。別の端末への移動や保存データの消失に備えて、バックアップも保存してください。端末間の自動同期はありません。</p></div><div class="backupbuttons"><button id="accepted">採用分だけCSV</button><button id="backup">バックアップ保存</button><button id="restore">バックアップを読み込む</button><input id="file" type="file" accept="application/json,.json" hidden></div></section>
+<footer>「外部根拠あり」も初期判定は未確認です。採用に自動設定しません。<br>読み・表記を修正した場合、以前のMecabra測定は修正後の語を保証しないため再測定が必要です。</footer></main>
+<dialog id="importDialog"><h2>バックアップを読み込みますか？</h2><p id="importInfo"></p><p>このブラウザに保存した判定・コメント・修正内容を、バックアップの内容に置き換えます。</p><div class="dialogbuttons"><button id="cancelImport">キャンセル</button><button id="confirmImport" class="primary">置き換えて読み込む</button></div></dialog>
+<div id="toast" role="status" hidden></div><script src="data.js"></script><script src="app.js"></script></body></html>

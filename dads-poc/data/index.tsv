@@ -1,0 +1,1307 @@
+index_id	english	canonical_english	url	is_alias
+dads-0001	α	inverse Ackermann function	https://xlinux.nist.gov/dads/HTML/inverseAckermann.html	True
+dads-0002	ω	ω	https://xlinux.nist.gov/dads/HTML/omega.html	False
+dads-0003	Ω	Ω	https://xlinux.nist.gov/dads/HTML/omegaCapital.html	False
+dads-0004	ρ-approximation algorithm	ρ-approximation algorithm	https://xlinux.nist.gov/dads/HTML/rhoapproxmtn.html	False
+dads-0005	∼	∼	https://xlinux.nist.gov/dads/HTML/sim.html	False
+dads-0006	Θ	Θ	https://xlinux.nist.gov/dads/HTML/theta.html	False
+dads-0007	absolute performance guarantee	absolute performance guarantee	https://xlinux.nist.gov/dads/HTML/absolute.html	False
+dads-0008	abstract data type	abstract data type	https://xlinux.nist.gov/dads/HTML/abstractDataType.html	False
+dads-0009	(a,b)-tree	(a,b)-tree	https://xlinux.nist.gov/dads/HTML/abtree.html	False
+dads-0010	accepting state	accepting state	https://xlinux.nist.gov/dads/HTML/acceptingstt.html	False
+dads-0011	Ackermann's function	Ackermann's function	https://xlinux.nist.gov/dads/HTML/ackermann.html	False
+dads-0012	active data structure	active data structure	https://xlinux.nist.gov/dads/HTML/activeDataStruc.html	False
+dads-0013	acyclic directed graph	directed acyclic graph	https://xlinux.nist.gov/dads/HTML/directAcycGraph.html	True
+dads-0014	acyclic graph	acyclic graph	https://xlinux.nist.gov/dads/HTML/acyclicgraph.html	False
+dads-0015	adaptive heap sort	adaptive heap sort	https://xlinux.nist.gov/dads/HTML/adaptiveHeapSort.html	False
+dads-0016	adaptive Huffman coding	adaptive Huffman coding	https://xlinux.nist.gov/dads/HTML/adaptiveHuffman.html	False
+dads-0017	adaptive k-d tree	adaptive k-d tree	https://xlinux.nist.gov/dads/HTML/adaptkdtree.html	False
+dads-0018	adaptive sort	adaptive sort	https://xlinux.nist.gov/dads/HTML/adaptivesort.html	False
+dads-0019	address-calculation sort	address-calculation sort	https://xlinux.nist.gov/dads/HTML/addresscalc.html	False
+dads-0020	adjacency-list representation	adjacency-list representation	https://xlinux.nist.gov/dads/HTML/adjacencyListRep.html	False
+dads-0021	adjacency-matrix representation	adjacency-matrix representation	https://xlinux.nist.gov/dads/HTML/adjacencyMatrixRep.html	False
+dads-0022	adjacent	adjacent	https://xlinux.nist.gov/dads/HTML/adjacent.html	False
+dads-0023	admissible vertex	admissible vertex	https://xlinux.nist.gov/dads/HTML/admissible.html	False
+dads-0024	ADT	abstract data type	https://xlinux.nist.gov/dads/HTML/abstractDataType.html	True
+dads-0025	adversary	adversary	https://xlinux.nist.gov/dads/HTML/adversary.html	False
+dads-0026	Aho-Corasick	Aho-Corasick	https://xlinux.nist.gov/dads/HTML/ahoCorasick.html	False
+dads-0027	algorithm	algorithm	https://xlinux.nist.gov/dads/HTML/algorithm.html	False
+dads-0028	algorithm BSTW	algorithm BSTW	https://xlinux.nist.gov/dads/HTML/algorithmBSTW.html	False
+dads-0029	algorithm FGK	algorithm FGK	https://xlinux.nist.gov/dads/HTML/algorithmFGK.html	False
+dads-0030	algorithmically solvable	decidable problem	https://xlinux.nist.gov/dads/HTML/decidableProblem.html	True
+dads-0031	all pairs shortest path	all pairs shortest path	https://xlinux.nist.gov/dads/HTML/allPairsShortestPath.html	False
+dads-0032	all simple paths	all simple paths	https://xlinux.nist.gov/dads/HTML/allSimplePaths.html	False
+dads-0033	alphabet	alphabet	https://xlinux.nist.gov/dads/HTML/alphabet.html	False
+dads-0034	Alpha Skip Search algorithm	Alpha Skip Search algorithm	https://xlinux.nist.gov/dads/HTML/alphaskipsr.html	False
+dads-0035	alternating path	alternating path	https://xlinux.nist.gov/dads/HTML/alterntngpth.html	False
+dads-0036	alternating Turing machine	alternating Turing machine	https://xlinux.nist.gov/dads/HTML/alternatngTr.html	False
+dads-0037	alternation	alternation	https://xlinux.nist.gov/dads/HTML/alternation.html	False
+dads-0038	American flag sort	American flag sort	https://xlinux.nist.gov/dads/HTML/americanFlagSort.html	False
+dads-0039	amortized cost	amortized cost	https://xlinux.nist.gov/dads/HTML/amortizdcost.html	False
+dads-0040	ancestor	ancestor	https://xlinux.nist.gov/dads/HTML/ancestor.html	False
+dads-0041	and	and	https://xlinux.nist.gov/dads/HTML/and.html	False
+dads-0042	ANSI	ANSI	https://xlinux.nist.gov/dads/HTML/ansi.html	False
+dads-0043	antichain	antichain	https://xlinux.nist.gov/dads/HTML/antichain.html	False
+dads-0044	antisymmetric	antisymmetric	https://xlinux.nist.gov/dads/HTML/antisymmetric.html	False
+dads-0045	Apostolico-Crochemore	Apostolico-Crochemore	https://xlinux.nist.gov/dads/HTML/apostolicocr.html	False
+dads-0046	Apostolico-Giancarlo algorithm	Apostolico-Giancarlo algorithm	https://xlinux.nist.gov/dads/HTML/apostolicogi.html	False
+dads-0047	approximate string matching	string matching with errors	https://xlinux.nist.gov/dads/HTML/stringMatchwError.html	True
+dads-0048	approximation algorithm	approximation algorithm	https://xlinux.nist.gov/dads/HTML/approximatin.html	False
+dads-0049	arborescence	arborescence	https://xlinux.nist.gov/dads/HTML/arborescence.html	False
+dads-0050	arc	edge	https://xlinux.nist.gov/dads/HTML/edge.html	True
+dads-0051	arithmetic coding	arithmetic coding	https://xlinux.nist.gov/dads/HTML/arithmeticCoding.html	False
+dads-0052	array	array	https://xlinux.nist.gov/dads/HTML/array.html	False
+dads-0053	array index	array index	https://xlinux.nist.gov/dads/HTML/arrayindex.html	False
+dads-0054	array merging	array merging	https://xlinux.nist.gov/dads/HTML/arraymerg.html	False
+dads-0055	array search	array search	https://xlinux.nist.gov/dads/HTML/arraysearch.html	False
+dads-0056	articulation point	cut vertex	https://xlinux.nist.gov/dads/HTML/cutvertex.html	True
+dads-0057	assignment problem	assignment problem	https://xlinux.nist.gov/dads/HTML/assignment.html	False
+dads-0058	association list	dictionary	https://xlinux.nist.gov/dads/HTML/dictionary.html	True
+dads-0059	associative	associative	https://xlinux.nist.gov/dads/HTML/associative.html	False
+dads-0060	associative array	associative array	https://xlinux.nist.gov/dads/HTML/assocarray.html	False
+dads-0061	asymptotically tight bound	Θ	https://xlinux.nist.gov/dads/HTML/theta.html	True
+dads-0062	asymptotic bound	asymptotic bound	https://xlinux.nist.gov/dads/HTML/asymptoticBound.html	False
+dads-0063	asymptotic space complexity	asymptotic space complexity	https://xlinux.nist.gov/dads/HTML/asymptoticSpaceComplexity.html	False
+dads-0064	asymptotic time complexity	asymptotic time complexity	https://xlinux.nist.gov/dads/HTML/asymptoticTimeComplexity.html	False
+dads-0065	asymptotic upper bound	big-O notation	https://xlinux.nist.gov/dads/HTML/bigOnotation.html	True
+dads-0066	augmenting path	augmenting path	https://xlinux.nist.gov/dads/HTML/augmentngpth.html	False
+dads-0067	automaton	automaton	https://xlinux.nist.gov/dads/HTML/automaton.html	False
+dads-0068	average case	average case	https://xlinux.nist.gov/dads/HTML/averagecase.html	False
+dads-0069	average-case cost	average-case cost	https://xlinux.nist.gov/dads/HTML/averageCaseCost.html	False
+dads-0070	AVL tree	AVL tree	https://xlinux.nist.gov/dads/HTML/avltree.html	False
+dads-0071	axiomatic semantics	axiomatic semantics	https://xlinux.nist.gov/dads/HTML/axiomaticSemantics.html	False
+dads-0072	backtracking	backtracking	https://xlinux.nist.gov/dads/HTML/backtrack.html	False
+dads-0073	bag	bag	https://xlinux.nist.gov/dads/HTML/bag.html	False
+dads-0074	balance	balance	https://xlinux.nist.gov/dads/HTML/balance.html	False
+dads-0075	balanced binary search tree	balanced binary search tree	https://xlinux.nist.gov/dads/HTML/balancedbist.html	False
+dads-0076	balanced binary tree	balanced binary tree	https://xlinux.nist.gov/dads/HTML/balancedbitr.html	False
+dads-0077	balanced k-way merge sort	balanced k-way merge sort	https://xlinux.nist.gov/dads/HTML/balanckwayms.html	False
+dads-0078	balanced merge sort	balanced merge sort	https://xlinux.nist.gov/dads/HTML/balancmrgsrt.html	False
+dads-0079	balanced multiway merge	balanced multiway merge	https://xlinux.nist.gov/dads/HTML/balancedMultiwayMerge.html	False
+dads-0080	balanced multiway tree	B-tree	https://xlinux.nist.gov/dads/HTML/btree.html	True
+dads-0081	balanced quicksort	balanced quicksort	https://xlinux.nist.gov/dads/HTML/balancedqsrt.html	False
+dads-0082	balanced tree	balanced tree	https://xlinux.nist.gov/dads/HTML/balancedtree.html	False
+dads-0083	balanced two-way merge sort	balanced two-way merge sort	https://xlinux.nist.gov/dads/HTML/balanc2wayms.html	False
+dads-0084	BANG file	BANG file	https://xlinux.nist.gov/dads/HTML/bangfile.html	False
+dads-0085	Batcher sort	bitonic sort	https://xlinux.nist.gov/dads/HTML/bitonicSort.html	True
+dads-0086	Baum Welch algorithm	Baum Welch algorithm	https://xlinux.nist.gov/dads/HTML/baumWelch.html	False
+dads-0087	BB(α) tree	BB(α) tree	https://xlinux.nist.gov/dads/HTML/bbalphatree.html	False
+dads-0088	BBP algorithm	BBP algorithm	https://xlinux.nist.gov/dads/HTML/bbp.html	False
+dads-0089	BDD	BDD	https://xlinux.nist.gov/dads/HTML/bdd.html	False
+dads-0090	BD-tree	BD-tree	https://xlinux.nist.gov/dads/HTML/bdtree.html	False
+dads-0091	Bellman-Ford algorithm	Bellman-Ford algorithm	https://xlinux.nist.gov/dads/HTML/bellmanford.html	False
+dads-0092	Benford's law	Benford's law	https://xlinux.nist.gov/dads/HTML/benfordslaw.html	False
+dads-0093	best case	best case	https://xlinux.nist.gov/dads/HTML/bestcase.html	False
+dads-0094	best-case cost	best-case cost	https://xlinux.nist.gov/dads/HTML/bestcasecost.html	False
+dads-0095	best-first search	best-first search	https://xlinux.nist.gov/dads/HTML/bestfirst.html	False
+dads-0096	biconnected component	biconnected component	https://xlinux.nist.gov/dads/HTML/biconnectedComponent.html	False
+dads-0097	biconnected graph	biconnected graph	https://xlinux.nist.gov/dads/HTML/biconnectedGraph.html	False
+dads-0098	bidirectional bubble sort	bidirectional bubble sort	https://xlinux.nist.gov/dads/HTML/bidirectionalBubbleSort.html	False
+dads-0099	big-O notation	big-O notation	https://xlinux.nist.gov/dads/HTML/bigOnotation.html	False
+dads-0100	binary function	binary function	https://xlinux.nist.gov/dads/HTML/binaryfunc.html	False
+dads-0101	binary GCD	binary GCD	https://xlinux.nist.gov/dads/HTML/binaryGCD.html	False
+dads-0102	binary heap	binary heap	https://xlinux.nist.gov/dads/HTML/binaryheap.html	False
+dads-0103	binary insertion sort	binary insertion sort	https://xlinux.nist.gov/dads/HTML/binaryinsort.html	False
+dads-0104	binary knapsack problem	knapsack problem	https://xlinux.nist.gov/dads/HTML/knapsackProblem.html	True
+dads-0105	binary priority queue	binary priority queue	https://xlinux.nist.gov/dads/HTML/binaryPriorityQueue.html	False
+dads-0106	binary relation	binary relation	https://xlinux.nist.gov/dads/HTML/binaryRelation.html	False
+dads-0107	binary search	binary search	https://xlinux.nist.gov/dads/HTML/binarySearch.html	False
+dads-0108	binary search tree	binary search tree	https://xlinux.nist.gov/dads/HTML/binarySearchTree.html	False
+dads-0109	binary tree	binary tree	https://xlinux.nist.gov/dads/HTML/binarytree.html	False
+dads-0110	binary tree representation of trees	binary tree representation of trees	https://xlinux.nist.gov/dads/HTML/binaryTreeRepofTree.html	False
+dads-0111	bingo sort	bingo sort	https://xlinux.nist.gov/dads/HTML/bingosort.html	False
+dads-0112	binomial heap	binomial heap	https://xlinux.nist.gov/dads/HTML/binomialheap.html	False
+dads-0113	binomial tree	binomial tree	https://xlinux.nist.gov/dads/HTML/binomialtree.html	False
+dads-0114	bin packing problem	bin packing problem	https://xlinux.nist.gov/dads/HTML/binpacking.html	False
+dads-0115	bin sort	bucket sort	https://xlinux.nist.gov/dads/HTML/bucketsort.html	True
+dads-0116	bintree	bintree	https://xlinux.nist.gov/dads/HTML/bintree.html	False
+dads-0117	bipartite graph	bipartite graph	https://xlinux.nist.gov/dads/HTML/bipartgraph.html	False
+dads-0118	bipartite matching	bipartite matching	https://xlinux.nist.gov/dads/HTML/bipartmatch.html	False
+dads-0119	bisector	bisector	https://xlinux.nist.gov/dads/HTML/bisector.html	False
+dads-0120	bitonic sort	bitonic sort	https://xlinux.nist.gov/dads/HTML/bitonicSort.html	False
+dads-0121	bit vector	bit vector	https://xlinux.nist.gov/dads/HTML/bitVector.html	False
+dads-0122	B k tree	B k tree	https://xlinux.nist.gov/dads/HTML/bktree.html	False
+dads-0123	blind sort	blind sort	https://xlinux.nist.gov/dads/HTML/blindSort.html	False
+dads-0124	blind trie	blind trie	https://xlinux.nist.gov/dads/HTML/blindTrie.html	False
+dads-0125	block	block	https://xlinux.nist.gov/dads/HTML/block.html	False
+dads-0126	block addressing index	block addressing index	https://xlinux.nist.gov/dads/HTML/blockAddressingIndex.html	False
+dads-0127	blocking flow	blocking flow	https://xlinux.nist.gov/dads/HTML/blockingflow.html	False
+dads-0128	block search	jump search	https://xlinux.nist.gov/dads/HTML/jumpsearch.html	True
+dads-0129	Bloom filter	Bloom filter	https://xlinux.nist.gov/dads/HTML/bloomFilter.html	False
+dads-0130	blossom	blossom	https://xlinux.nist.gov/dads/HTML/blossom.html	False
+dads-0131	bogosort	bogosort	https://xlinux.nist.gov/dads/HTML/bogosort.html	False
+dads-0132	Bond Sequential Search	Bond Sequential Search	https://xlinux.nist.gov/dads/HTML/BondSeqSearch.html	False
+dads-0133	boolean	boolean	https://xlinux.nist.gov/dads/HTML/boolean.html	False
+dads-0134	boolean expression	boolean expression	https://xlinux.nist.gov/dads/HTML/booleanexpr.html	False
+dads-0135	boolean function	boolean function	https://xlinux.nist.gov/dads/HTML/booleanfnctn.html	False
+dads-0136	border	border	https://xlinux.nist.gov/dads/HTML/border.html	False
+dads-0137	Boruvka's algorithm	Boruvka's algorithm	https://xlinux.nist.gov/dads/HTML/boruvkasAlgorithm.html	False
+dads-0138	bottleneck traveling salesman	bottleneck traveling salesman	https://xlinux.nist.gov/dads/HTML/bottleneckTravelingSales.html	False
+dads-0139	boundary-based representation	boundary-based representation	https://xlinux.nist.gov/dads/HTML/boundarybasd.html	False
+dads-0140	bounded error probability in polynomial time	BPP	https://xlinux.nist.gov/dads/HTML/bpp.html	True
+dads-0141	bounded queue	bounded queue	https://xlinux.nist.gov/dads/HTML/boundedqueue.html	False
+dads-0142	bounded stack	bounded stack	https://xlinux.nist.gov/dads/HTML/boundedstack.html	False
+dads-0143	Boyer-Moore	Boyer-Moore	https://xlinux.nist.gov/dads/HTML/boyermoore.html	False
+dads-0144	Boyer-Moore-Horspool	Boyer-Moore-Horspool	https://xlinux.nist.gov/dads/HTML/boyerMooreHorspool.html	False
+dads-0145	bozo sort	bozo sort	https://xlinux.nist.gov/dads/HTML/bozoSort.html	False
+dads-0146	B + -tree	B + -tree	https://xlinux.nist.gov/dads/HTML/bplustree.html	False
+dads-0147	BPP	BPP	https://xlinux.nist.gov/dads/HTML/bpp.html	False
+dads-0148	Bradford's law	Bradford's law	https://xlinux.nist.gov/dads/HTML/bradfordsLaw.html	False
+dads-0149	branch and bound	branch and bound	https://xlinux.nist.gov/dads/HTML/branchNbound.html	False
+dads-0150	breadth-first search	breadth-first search	https://xlinux.nist.gov/dads/HTML/breadthfirst.html	False
+dads-0151	Bresenham's algorithm	Bresenham's algorithm	https://xlinux.nist.gov/dads/HTML/bresenham.html	False
+dads-0152	bridge	bridge	https://xlinux.nist.gov/dads/HTML/bridge.html	False
+dads-0153	British Museum technique	British Museum technique	https://xlinux.nist.gov/dads/HTML/britishMuseum.html	False
+dads-0154	brute force	brute force	https://xlinux.nist.gov/dads/HTML/bruteforce.html	False
+dads-0155	brute force string search	brute force string search	https://xlinux.nist.gov/dads/HTML/bruteForceStringSearch.html	False
+dads-0156	brute force string search with mismatches	brute force string search with mismatches	https://xlinux.nist.gov/dads/HTML/bruteForceStrSrchwMismatch.html	False
+dads-0157	BSP-tree	BSP-tree	https://xlinux.nist.gov/dads/HTML/bsptree.html	False
+dads-0158	B*-tree	B*-tree	https://xlinux.nist.gov/dads/HTML/bstartree.html	False
+dads-0159	B-tree	B-tree	https://xlinux.nist.gov/dads/HTML/btree.html	False
+dads-0160	bubble sort	bubble sort	https://xlinux.nist.gov/dads/HTML/bubblesort.html	False
+dads-0161	bucket	bucket	https://xlinux.nist.gov/dads/HTML/bucket.html	False
+dads-0162	bucket array	bucket array	https://xlinux.nist.gov/dads/HTML/bucketarray.html	False
+dads-0163	bucketing method	bucketing method	https://xlinux.nist.gov/dads/HTML/bucketmeth.html	False
+dads-0164	bucket sort	bucket sort	https://xlinux.nist.gov/dads/HTML/bucketsort.html	False
+dads-0165	bucket trie	bucket trie	https://xlinux.nist.gov/dads/HTML/bucketTrie.html	False
+dads-0166	buddy system	buddy system	https://xlinux.nist.gov/dads/HTML/buddysystem.html	False
+dads-0167	buddy tree	buddy tree	https://xlinux.nist.gov/dads/HTML/buddytree.html	False
+dads-0168	build-heap	build-heap	https://xlinux.nist.gov/dads/HTML/buildHeap.html	False
+dads-0169	Burrows-Wheeler transform	Burrows-Wheeler transform	https://xlinux.nist.gov/dads/HTML/burrowsWheelerTransform.html	False
+dads-0170	busy beaver	busy beaver	https://xlinux.nist.gov/dads/HTML/busyBeaver.html	False
+dads-0171	BV-tree	BV-tree	https://xlinux.nist.gov/dads/HTML/bvtree.html	False
+dads-0172	BWT	Burrows-Wheeler transform	https://xlinux.nist.gov/dads/HTML/burrowsWheelerTransform.html	True
+dads-0173	Byzantine generals	Byzantine generals	https://xlinux.nist.gov/dads/HTML/byzantine.html	False
+dads-0174	cactus stack	cactus stack	https://xlinux.nist.gov/dads/HTML/cactusstack.html	False
+dads-0175	Calculus of Communicating Systems	Calculus of Communicating Systems	https://xlinux.nist.gov/dads/HTML/calcucommsys.html	False
+dads-0176	calendar queue	calendar queue	https://xlinux.nist.gov/dads/HTML/calendarQueue.html	False
+dads-0177	candidate consistency testing	candidate consistency testing	https://xlinux.nist.gov/dads/HTML/candidate.html	False
+dads-0178	candidate verification	candidate verification	https://xlinux.nist.gov/dads/HTML/candidateVerification.html	False
+dads-0179	canonical complexity class	canonical complexity class	https://xlinux.nist.gov/dads/HTML/canonical.html	False
+dads-0180	capacitated facility location	capacitated facility location	https://xlinux.nist.gov/dads/HTML/capacifacloc.html	False
+dads-0181	capacity	capacity	https://xlinux.nist.gov/dads/HTML/capacity.html	False
+dads-0182	capacity constraint	capacity constraint	https://xlinux.nist.gov/dads/HTML/capacitycstr.html	False
+dads-0183	cartesian tree	randomized binary search tree	https://xlinux.nist.gov/dads/HTML/randomizedBinarySearchTree.html	True
+dads-0184	Caverphone	Caverphone	https://xlinux.nist.gov/dads/HTML/caverphone.html	False
+dads-0185	CCS	CCS	https://xlinux.nist.gov/dads/HTML/ccs.html	False
+dads-0186	cell probe model	cell probe model	https://xlinux.nist.gov/dads/HTML/cellProbeModel.html	False
+dads-0187	cell tree	cell tree	https://xlinux.nist.gov/dads/HTML/celltree.html	False
+dads-0188	cellular automaton	cellular automaton	https://xlinux.nist.gov/dads/HTML/cellulartmtn.html	False
+dads-0189	centroid	centroid	https://xlinux.nist.gov/dads/HTML/centroid.html	False
+dads-0190	certificate	certificate	https://xlinux.nist.gov/dads/HTML/certificate.html	False
+dads-0191	chain	chain	https://xlinux.nist.gov/dads/HTML/chain.html	False
+dads-0192	chaining	chaining	https://xlinux.nist.gov/dads/HTML/chaining.html	False
+dads-0193	child	child	https://xlinux.nist.gov/dads/HTML/child.html	False
+dads-0194	Chinese postman problem	Chinese postman problem	https://xlinux.nist.gov/dads/HTML/chinesePostman.html	False
+dads-0195	Chinese remainder theorem	Chinese remainder theorem	https://xlinux.nist.gov/dads/HTML/chineseRmndr.html	False
+dads-0196	Christofides algorithm	Christofides algorithm	https://xlinux.nist.gov/dads/HTML/christofides.html	False
+dads-0197	chromatic index	chromatic index	https://xlinux.nist.gov/dads/HTML/chromaticndx.html	False
+dads-0198	chromatic number	chromatic number	https://xlinux.nist.gov/dads/HTML/chromatcnmbr.html	False
+dads-0199	circuit	circuit	https://xlinux.nist.gov/dads/HTML/circuit.html	False
+dads-0200	circuit complexity	circuit complexity	https://xlinux.nist.gov/dads/HTML/circuitComplexity.html	False
+dads-0201	circuit value problem	circuit value problem	https://xlinux.nist.gov/dads/HTML/circuitvalue.html	False
+dads-0202	circular list	circular list	https://xlinux.nist.gov/dads/HTML/circularlist.html	False
+dads-0203	circular queue	circular queue	https://xlinux.nist.gov/dads/HTML/circularQueue.html	False
+dads-0204	clique	clique	https://xlinux.nist.gov/dads/HTML/clique.html	False
+dads-0205	clique problem	clique problem	https://xlinux.nist.gov/dads/HTML/cliqueproblm.html	False
+dads-0206	clustering	clustering	https://xlinux.nist.gov/dads/HTML/clustering.html	False
+dads-0207	clustering free	clustering free	https://xlinux.nist.gov/dads/HTML/clusteringFree.html	False
+dads-0208	coalesced chaining	coalesced chaining	https://xlinux.nist.gov/dads/HTML/coalescedChaining.html	False
+dads-0209	coarsening	coarsening	https://xlinux.nist.gov/dads/HTML/coarsening.html	False
+dads-0210	cocktail shaker sort	bidirectional bubble sort	https://xlinux.nist.gov/dads/HTML/bidirectionalBubbleSort.html	True
+dads-0211	codeword	codeword	https://xlinux.nist.gov/dads/HTML/codeword.html	False
+dads-0212	coding tree	coding tree	https://xlinux.nist.gov/dads/HTML/codingTree.html	False
+dads-0213	Collatz problem	Collatz problem	https://xlinux.nist.gov/dads/HTML/CollatzProblem.html	False
+dads-0214	collective recursion	collective recursion	https://xlinux.nist.gov/dads/HTML/collectiveRecursion.html	False
+dads-0215	collision	collision	https://xlinux.nist.gov/dads/HTML/collision.html	False
+dads-0216	collision resolution scheme	collision resolution scheme	https://xlinux.nist.gov/dads/HTML/collisionres.html	False
+dads-0217	Colussi	Colussi	https://xlinux.nist.gov/dads/HTML/colussi.html	False
+dads-0218	combination	combination	https://xlinux.nist.gov/dads/HTML/combination.html	False
+dads-0219	comb sort	comb sort	https://xlinux.nist.gov/dads/HTML/combSort.html	False
+dads-0220	Commentz-Walter	Commentz-Walter	https://xlinux.nist.gov/dads/HTML/CommentzWalter.html	False
+dads-0221	Communicating Sequential Processes	Communicating Sequential Processes	https://xlinux.nist.gov/dads/HTML/communseqpro.html	False
+dads-0222	commutative	commutative	https://xlinux.nist.gov/dads/HTML/commutative.html	False
+dads-0223	compact data structure	compact data structure	https://xlinux.nist.gov/dads/HTML/compactDataStruct.html	False
+dads-0224	compact DAWG	compact DAWG	https://xlinux.nist.gov/dads/HTML/compactDAWG.html	False
+dads-0225	compact trie	compact trie	https://xlinux.nist.gov/dads/HTML/compactTrie.html	False
+dads-0226	comparison sort	comparison sort	https://xlinux.nist.gov/dads/HTML/comparisnsrt.html	False
+dads-0227	competitive analysis	competitive analysis	https://xlinux.nist.gov/dads/HTML/competitiveAnalysis.html	False
+dads-0228	competitive ratio	competitive ratio	https://xlinux.nist.gov/dads/HTML/competitivrt.html	False
+dads-0229	complement	complement	https://xlinux.nist.gov/dads/HTML/complement.html	False
+dads-0230	complete binary tree	complete binary tree	https://xlinux.nist.gov/dads/HTML/completeBinaryTree.html	False
+dads-0231	complete graph	complete graph	https://xlinux.nist.gov/dads/HTML/completeGraph.html	False
+dads-0232	completely connected graph	completely connected graph	https://xlinux.nist.gov/dads/HTML/completelyConnectedGraph.html	False
+dads-0233	complete tree	complete tree	https://xlinux.nist.gov/dads/HTML/completetree.html	False
+dads-0234	complexity	complexity	https://xlinux.nist.gov/dads/HTML/complexity.html	False
+dads-0235	complexity class	complexity class	https://xlinux.nist.gov/dads/HTML/complexityClass.html	False
+dads-0236	compound algorithm	compound algorithm	https://xlinux.nist.gov/dads/HTML/compoundAlgorithm.html	False
+dads-0237	computable	computable	https://xlinux.nist.gov/dads/HTML/computable.html	False
+dads-0238	concave function	concave function	https://xlinux.nist.gov/dads/HTML/concavefunct.html	False
+dads-0239	concurrent data structure	concurrent data structure	https://xlinux.nist.gov/dads/HTML/concurrentDataStructure.html	False
+dads-0240	concurrent flow	concurrent flow	https://xlinux.nist.gov/dads/HTML/concurrntflw.html	False
+dads-0241	concurrent read, concurrent write	concurrent read, concurrent write	https://xlinux.nist.gov/dads/HTML/concurrentReadConWrt.html	False
+dads-0242	concurrent read, exclusive write	concurrent read, exclusive write	https://xlinux.nist.gov/dads/HTML/concurrentReadExcluWrt.html	False
+dads-0243	confluently persistent data structure	confluently persistent data structure	https://xlinux.nist.gov/dads/HTML/confluentlyPersistData.html	False
+dads-0244	conjunction	conjunction	https://xlinux.nist.gov/dads/HTML/conjunction.html	False
+dads-0245	connected components	connected components	https://xlinux.nist.gov/dads/HTML/connectedComponents.html	False
+dads-0246	connected graph	connected graph	https://xlinux.nist.gov/dads/HTML/connectedGraph.html	False
+dads-0247	constant function	constant function	https://xlinux.nist.gov/dads/HTML/constantfunc.html	False
+dads-0248	continuous knapsack problem	fractional knapsack problem	https://xlinux.nist.gov/dads/HTML/fractionalKnapsack.html	True
+dads-0249	Cook reduction	Cook reduction	https://xlinux.nist.gov/dads/HTML/cookreductin.html	False
+dads-0250	Cook's theorem	Cook's theorem	https://xlinux.nist.gov/dads/HTML/cookstheorem.html	False
+dads-0251	CORDIC	CORDIC	https://xlinux.nist.gov/dads/HTML/cordic.html	False
+dads-0252	counting sort	counting sort	https://xlinux.nist.gov/dads/HTML/countingsort.html	False
+dads-0253	covering	covering	https://xlinux.nist.gov/dads/HTML/covering.html	False
+dads-0254	CRC	cyclic redundancy check	https://xlinux.nist.gov/dads/HTML/cyclicRedundancyCheck.html	True
+dads-0255	CRCW	concurrent read, concurrent write	https://xlinux.nist.gov/dads/HTML/concurrentReadConWrt.html	True
+dads-0256	CREW	concurrent read, exclusive write	https://xlinux.nist.gov/dads/HTML/concurrentReadExcluWrt.html	True
+dads-0257	critical path problem	critical path problem	https://xlinux.nist.gov/dads/HTML/criticalPath.html	False
+dads-0258	CSP	CSP	https://xlinux.nist.gov/dads/HTML/csp.html	False
+dads-0259	CTL	CTL	https://xlinux.nist.gov/dads/HTML/ctl.html	False
+dads-0260	cube root	cube root	https://xlinux.nist.gov/dads/HTML/cubeRoot.html	False
+dads-0261	cuckoo hashing	cuckoo hashing	https://xlinux.nist.gov/dads/HTML/cuckooHashing.html	False
+dads-0262	Cupif-Giannini tree traversal	Cupif-Giannini tree traversal	https://xlinux.nist.gov/dads/HTML/CupifGianniniTreeTraversal.html	False
+dads-0263	cut	cut	https://xlinux.nist.gov/dads/HTML/cut.html	False
+dads-0264	cutting plane	cutting plane	https://xlinux.nist.gov/dads/HTML/cuttingplane.html	False
+dads-0265	cutting stock problem	cutting stock problem	https://xlinux.nist.gov/dads/HTML/cuttingStock.html	False
+dads-0266	cutting theorem	cutting theorem	https://xlinux.nist.gov/dads/HTML/cuttingtherm.html	False
+dads-0267	cut vertex	cut vertex	https://xlinux.nist.gov/dads/HTML/cutvertex.html	False
+dads-0268	cycle	cycle	https://xlinux.nist.gov/dads/HTML/cycle.html	False
+dads-0269	cyclic redundancy check	cyclic redundancy check	https://xlinux.nist.gov/dads/HTML/cyclicRedundancyCheck.html	False
+dads-0270	D-adjacent	D-adjacent	https://xlinux.nist.gov/dads/HTML/dadjacent.html	False
+dads-0271	DAG	directed acyclic graph	https://xlinux.nist.gov/dads/HTML/directAcycGraph.html	True
+dads-0272	DAG shortest paths	DAG shortest paths	https://xlinux.nist.gov/dads/HTML/dagShortPath.html	False
+dads-0273	data structure	data structure	https://xlinux.nist.gov/dads/HTML/dataStructure.html	False
+dads-0274	DAWG	directed acyclic word graph	https://xlinux.nist.gov/dads/HTML/directedAcyclicWordGraph.html	True
+dads-0275	decidable language	decidable language	https://xlinux.nist.gov/dads/HTML/decidableLanguage.html	False
+dads-0276	decidable problem	decidable problem	https://xlinux.nist.gov/dads/HTML/decidableProblem.html	False
+dads-0277	decimation	prune and search	https://xlinux.nist.gov/dads/HTML/pruneNsearch.html	True
+dads-0278	decision problem	decision problem	https://xlinux.nist.gov/dads/HTML/decisionProblem.html	False
+dads-0279	decomposable searching problem	decomposable searching problem	https://xlinux.nist.gov/dads/HTML/decomposable.html	False
+dads-0280	degree	degree	https://xlinux.nist.gov/dads/HTML/degree.html	False
+dads-0281	dense graph	dense graph	https://xlinux.nist.gov/dads/HTML/densegraph.html	False
+dads-0282	depoissonization	depoissonization	https://xlinux.nist.gov/dads/HTML/depoissonization.html	False
+dads-0283	depth	depth	https://xlinux.nist.gov/dads/HTML/depth.html	False
+dads-0284	depth-first search	depth-first search	https://xlinux.nist.gov/dads/HTML/depthfirst.html	False
+dads-0285	deque	deque	https://xlinux.nist.gov/dads/HTML/deque.html	False
+dads-0286	derangement	derangement	https://xlinux.nist.gov/dads/HTML/derangement.html	False
+dads-0287	descendant	descendant	https://xlinux.nist.gov/dads/HTML/descendant.html	False
+dads-0288	deterministic	deterministic	https://xlinux.nist.gov/dads/HTML/deterministc.html	False
+dads-0289	deterministic algorithm	deterministic algorithm	https://xlinux.nist.gov/dads/HTML/deterministicAlgorithm.html	False
+dads-0290	deterministic finite automata string search	deterministic finite automata string search	https://xlinux.nist.gov/dads/HTML/determFinitAutSrch.html	False
+dads-0291	deterministic finite automaton	deterministic finite state machine	https://xlinux.nist.gov/dads/HTML/determFinitStateMach.html	True
+dads-0292	deterministic finite state machine	deterministic finite state machine	https://xlinux.nist.gov/dads/HTML/determFinitStateMach.html	False
+dads-0293	deterministic finite tree automaton	deterministic finite tree automaton	https://xlinux.nist.gov/dads/HTML/determFinitTreeAutom.html	False
+dads-0294	deterministic pushdown automaton	deterministic pushdown automaton	https://xlinux.nist.gov/dads/HTML/deterministicPushdownAutom.html	False
+dads-0295	deterministic random bit generator	pseudo-random number generator	https://xlinux.nist.gov/dads/HTML/pseudorandomNumberGen.html	True
+dads-0296	deterministic tree automaton	deterministic tree automaton	https://xlinux.nist.gov/dads/HTML/determTreeAutom.html	False
+dads-0297	Deutsch-Jozsa algorithm	Deutsch-Jozsa algorithm	https://xlinux.nist.gov/dads/HTML/deutschJozsaAlgo.html	False
+dads-0298	DFA	deterministic finite state machine	https://xlinux.nist.gov/dads/HTML/determFinitStateMach.html	True
+dads-0299	DFS	depth-first search	https://xlinux.nist.gov/dads/HTML/depthfirst.html	True
+dads-0300	DFS forest	DFS forest	https://xlinux.nist.gov/dads/HTML/DFSforest.html	False
+dads-0301	DFTA	deterministic finite tree automaton	https://xlinux.nist.gov/dads/HTML/determFinitTreeAutom.html	True
+dads-0302	diagonalization	diagonalization	https://xlinux.nist.gov/dads/HTML/diagonaliztn.html	False
+dads-0303	diameter	diameter	https://xlinux.nist.gov/dads/HTML/diameter.html	False
+dads-0304	Dianna	Dianna	https://xlinux.nist.gov/dads/HTML/dianna.html	False
+dads-0305	dichotomic search	dichotomic search	https://xlinux.nist.gov/dads/HTML/dichotomicSearch.html	False
+dads-0306	dictionary	dictionary	https://xlinux.nist.gov/dads/HTML/dictionary.html	False
+dads-0307	diet	discrete interval encoding tree	https://xlinux.nist.gov/dads/HTML/discretintrv.html	True
+dads-0308	difference	difference	https://xlinux.nist.gov/dads/HTML/difference.html	False
+dads-0309	digital search tree	digital search tree	https://xlinux.nist.gov/dads/HTML/digitalSearchTree.html	False
+dads-0310	digital tree	digital tree	https://xlinux.nist.gov/dads/HTML/digitaltree.html	False
+dads-0311	digraph	directed graph	https://xlinux.nist.gov/dads/HTML/directedGraph.html	True
+dads-0312	Dijkstra's algorithm	Dijkstra's algorithm	https://xlinux.nist.gov/dads/HTML/dijkstraalgo.html	False
+dads-0313	diminishing increment sort	diminishing increment sort	https://xlinux.nist.gov/dads/HTML/diminishingIncSort.html	False
+dads-0314	dining philosophers	dining philosophers	https://xlinux.nist.gov/dads/HTML/diningphilos.html	False
+dads-0315	direct chaining	direct chaining	https://xlinux.nist.gov/dads/HTML/directChaining.html	False
+dads-0316	directed acyclic graph	directed acyclic graph	https://xlinux.nist.gov/dads/HTML/directAcycGraph.html	False
+dads-0317	directed acyclic word graph	directed acyclic word graph	https://xlinux.nist.gov/dads/HTML/directedAcyclicWordGraph.html	False
+dads-0318	directed graph	directed graph	https://xlinux.nist.gov/dads/HTML/directedGraph.html	False
+dads-0319	discrete interval encoding tree	discrete interval encoding tree	https://xlinux.nist.gov/dads/HTML/discretintrv.html	False
+dads-0320	discrete p-center	discrete p-center	https://xlinux.nist.gov/dads/HTML/discretpcntr.html	False
+dads-0321	disjoint set	disjoint set	https://xlinux.nist.gov/dads/HTML/disjointset.html	False
+dads-0322	disjunction	disjunction	https://xlinux.nist.gov/dads/HTML/disjunction.html	False
+dads-0323	distributional complexity	distributional complexity	https://xlinux.nist.gov/dads/HTML/distributionalComplex.html	False
+dads-0324	distribution sort	distribution sort	https://xlinux.nist.gov/dads/HTML/distributionSort.html	False
+dads-0325	distributive partitioning sort	distributive partitioning sort	https://xlinux.nist.gov/dads/HTML/distributivePartitioningSort.html	False
+dads-0326	divide and conquer	divide and conquer	https://xlinux.nist.gov/dads/HTML/divideAndConquer.html	False
+dads-0327	divide and marriage before conquest	divide and marriage before conquest	https://xlinux.nist.gov/dads/HTML/dividemarrig.html	False
+dads-0328	domain	domain	https://xlinux.nist.gov/dads/HTML/domain.html	False
+dads-0329	dominance tree sort	dominance tree sort	https://xlinux.nist.gov/dads/HTML/dominanceTreeSort.html	False
+dads-0330	don't care	don't care	https://xlinux.nist.gov/dads/HTML/dontcare.html	False
+dads-0331	Doomsday rule	Doomsday rule	https://xlinux.nist.gov/dads/HTML/doomsday.html	False
+dads-0332	double-direction bubble sort	bidirectional bubble sort	https://xlinux.nist.gov/dads/HTML/bidirectionalBubbleSort.html	True
+dads-0333	double-ended priority queue	double-ended priority queue	https://xlinux.nist.gov/dads/HTML/doubleendpq.html	False
+dads-0334	double hashing	double hashing	https://xlinux.nist.gov/dads/HTML/doublehashng.html	False
+dads-0335	double left rotation	double left rotation	https://xlinux.nist.gov/dads/HTML/doubleLeftRotat.html	False
+dads-0336	double metaphone	double metaphone	https://xlinux.nist.gov/dads/HTML/doubleMetaphone.html	False
+dads-0337	double right rotation	double right rotation	https://xlinux.nist.gov/dads/HTML/doubleRightRotation.html	False
+dads-0338	doubly-chained tree	binary tree representation of trees	https://xlinux.nist.gov/dads/HTML/binaryTreeRepofTree.html	True
+dads-0339	doubly-ended queue	deque	https://xlinux.nist.gov/dads/HTML/deque.html	True
+dads-0340	doubly linked list	doubly linked list	https://xlinux.nist.gov/dads/HTML/doublyLinkedList.html	False
+dads-0341	DPDA	deterministic pushdown automaton	https://xlinux.nist.gov/dads/HTML/deterministicPushdownAutom.html	True
+dads-0342	DRBG	pseudo-random number generator	https://xlinux.nist.gov/dads/HTML/pseudorandomNumberGen.html	True
+dads-0343	D-tree	D-tree	https://xlinux.nist.gov/dads/HTML/DTree.html	False
+dads-0344	dual	dual	https://xlinux.nist.gov/dads/HTML/dual.html	False
+dads-0345	dual linear program	dual linear program	https://xlinux.nist.gov/dads/HTML/duallinear.html	False
+dads-0346	dual-pivot quicksort	dual-pivot quicksort	https://xlinux.nist.gov/dads/HTML/dualPivotQuicksort.html	False
+dads-0347	Dutch national flag	Dutch national flag	https://xlinux.nist.gov/dads/HTML/DutchNationalFlag.html	False
+dads-0348	dyadic tree	binary tree	https://xlinux.nist.gov/dads/HTML/binarytree.html	True
+dads-0349	dynamic	dynamic	https://xlinux.nist.gov/dads/HTML/dynamic.html	False
+dads-0350	dynamic array	dynamic array	https://xlinux.nist.gov/dads/HTML/dynamicarray.html	False
+dads-0351	dynamic hashing	dynamic hashing	https://xlinux.nist.gov/dads/HTML/dynamicHashing.html	False
+dads-0352	dynamic Huffman coding	adaptive Huffman coding	https://xlinux.nist.gov/dads/HTML/adaptiveHuffman.html	True
+dads-0353	dynamic programming	dynamic programming	https://xlinux.nist.gov/dads/HTML/dynamicprog.html	False
+dads-0354	dynamization transformation	dynamization transformation	https://xlinux.nist.gov/dads/HTML/dynamization.html	False
+dads-0355	easy split, hard merge	easy split, hard merge	https://xlinux.nist.gov/dads/HTML/easySplitHardMerge.html	False
+dads-0356	edge	edge	https://xlinux.nist.gov/dads/HTML/edge.html	False
+dads-0357	edge coloring	edge coloring	https://xlinux.nist.gov/dads/HTML/edgecoloring.html	False
+dads-0358	edge connectivity	edge connectivity	https://xlinux.nist.gov/dads/HTML/edgeConnectivity.html	False
+dads-0359	edge crossing	edge crossing	https://xlinux.nist.gov/dads/HTML/edgecrossing.html	False
+dads-0360	edge-weighted graph	weighted graph	https://xlinux.nist.gov/dads/HTML/weightedGraph.html	True
+dads-0361	edit distance	Levenshtein distance	https://xlinux.nist.gov/dads/HTML/Levenshtein.html	True
+dads-0362	edit operation	edit operation	https://xlinux.nist.gov/dads/HTML/editoperation.html	False
+dads-0363	edit script	edit script	https://xlinux.nist.gov/dads/HTML/editscript.html	False
+dads-0364	efficiency	efficiency	https://xlinux.nist.gov/dads/HTML/efficiency.html	False
+dads-0365	8 queens	8 queens	https://xlinux.nist.gov/dads/HTML/eightqueens.html	False
+dads-0366	elastic-bucket trie	elastic-bucket trie	https://xlinux.nist.gov/dads/HTML/elasticBucketTrie.html	False
+dads-0367	element uniqueness	element uniqueness	https://xlinux.nist.gov/dads/HTML/elementnqnss.html	False
+dads-0368	end-of-string	end-of-string	https://xlinux.nist.gov/dads/HTML/endofstring.html	False
+dads-0369	enfilade	enfilade	https://xlinux.nist.gov/dads/HTML/enfilade.html	False
+dads-0370	ERCW	exclusive read, concurrent write	https://xlinux.nist.gov/dads/HTML/exclusiveReadConWrt.html	True
+dads-0371	EREW	exclusive read, exclusive write	https://xlinux.nist.gov/dads/HTML/exclusiveReadExcluWrt.html	True
+dads-0372	Euclidean algorithm	Euclid's algorithm	https://xlinux.nist.gov/dads/HTML/euclidalgo.html	True
+dads-0373	Euclidean distance	Euclidean distance	https://xlinux.nist.gov/dads/HTML/euclidndstnc.html	False
+dads-0374	Euclidean Steiner tree	Euclidean Steiner tree	https://xlinux.nist.gov/dads/HTML/euclidSteinerTree.html	False
+dads-0375	Euclidean traveling salesman problem	Euclidean traveling salesman problem	https://xlinux.nist.gov/dads/HTML/euclidntrvls.html	False
+dads-0376	Euclid's algorithm	Euclid's algorithm	https://xlinux.nist.gov/dads/HTML/euclidalgo.html	False
+dads-0377	Euler cycle	Euler cycle	https://xlinux.nist.gov/dads/HTML/eulercycle.html	False
+dads-0378	Eulerian graph	Eulerian graph	https://xlinux.nist.gov/dads/HTML/euleriangrph.html	False
+dads-0379	Eulerian path	Euler cycle	https://xlinux.nist.gov/dads/HTML/eulercycle.html	True
+dads-0380	Euler's formula	Euler's formula	https://xlinux.nist.gov/dads/HTML/EulersFormula.html	False
+dads-0381	exact string matching	string matching	https://xlinux.nist.gov/dads/HTML/stringMatching.html	True
+dads-0382	EXCELL	EXCELL	https://xlinux.nist.gov/dads/HTML/excell.html	False
+dads-0383	exchange sort	bubble sort	https://xlinux.nist.gov/dads/HTML/bubblesort.html	True
+dads-0384	exclusive or	xor	https://xlinux.nist.gov/dads/HTML/xor.html	True
+dads-0385	exclusive read, concurrent write	exclusive read, concurrent write	https://xlinux.nist.gov/dads/HTML/exclusiveReadConWrt.html	False
+dads-0386	exclusive read, exclusive write	exclusive read, exclusive write	https://xlinux.nist.gov/dads/HTML/exclusiveReadExcluWrt.html	False
+dads-0387	exhaustive search	exhaustive search	https://xlinux.nist.gov/dads/HTML/exhaustiveSearch.html	False
+dads-0388	existential state	existential state	https://xlinux.nist.gov/dads/HTML/existentlstt.html	False
+dads-0389	expandable hashing	expandable hashing	https://xlinux.nist.gov/dads/HTML/expandableHashing.html	False
+dads-0390	expander graph	expander graph	https://xlinux.nist.gov/dads/HTML/expandergrph.html	False
+dads-0391	exponential	exponential	https://xlinux.nist.gov/dads/HTML/exponential.html	False
+dads-0392	extended binary tree	extended binary tree	https://xlinux.nist.gov/dads/HTML/extendedBinaryTree.html	False
+dads-0393	extended Euclid's algorithm	extended Euclid's algorithm	https://xlinux.nist.gov/dads/HTML/extendEuclid.html	False
+dads-0394	extended k-d tree	extended k-d tree	https://xlinux.nist.gov/dads/HTML/extendkdtree.html	False
+dads-0395	extendible hashing	extendible hashing	https://xlinux.nist.gov/dads/HTML/extendibleHashing.html	False
+dads-0396	external chaining	separate chaining	https://xlinux.nist.gov/dads/HTML/separateChaining.html	True
+dads-0397	external index	external index	https://xlinux.nist.gov/dads/HTML/externalindx.html	False
+dads-0398	external memory algorithm	external memory algorithm	https://xlinux.nist.gov/dads/HTML/externalMemoryAlgo.html	False
+dads-0399	external memory data structure	external memory data structure	https://xlinux.nist.gov/dads/HTML/externalMemoryDataStr.html	False
+dads-0400	external merge	external merge	https://xlinux.nist.gov/dads/HTML/externalmerg.html	False
+dads-0401	external node	leaf	https://xlinux.nist.gov/dads/HTML/leaf.html	True
+dads-0402	external quicksort	external quicksort	https://xlinux.nist.gov/dads/HTML/externalQuicksort.html	False
+dads-0403	external radix sort	external radix sort	https://xlinux.nist.gov/dads/HTML/externalRadixSort.html	False
+dads-0404	external sort	external sort	https://xlinux.nist.gov/dads/HTML/externalsort.html	False
+dads-0405	extrapolation search	interpolation search	https://xlinux.nist.gov/dads/HTML/interpolationSearch.html	True
+dads-0406	extremal	extremal	https://xlinux.nist.gov/dads/HTML/extremal.html	False
+dads-0407	extreme point	extreme point	https://xlinux.nist.gov/dads/HTML/extremepoint.html	False
+dads-0408	facility location	facility location	https://xlinux.nist.gov/dads/HTML/facilityloc.html	False
+dads-0409	factor	substring	https://xlinux.nist.gov/dads/HTML/substring.html	True
+dads-0410	factorial	factorial	https://xlinux.nist.gov/dads/HTML/factorial.html	False
+dads-0411	fast fourier transform	fast fourier transform	https://xlinux.nist.gov/dads/HTML/fastFourierTransform.html	False
+dads-0412	fathoming	fathoming	https://xlinux.nist.gov/dads/HTML/fathoming.html	False
+dads-0413	feasible region	feasible region	https://xlinux.nist.gov/dads/HTML/feasibleregn.html	False
+dads-0414	feasible solution	feasible solution	https://xlinux.nist.gov/dads/HTML/feasiblesltn.html	False
+dads-0415	feedback edge set	feedback edge set	https://xlinux.nist.gov/dads/HTML/feedbackEdgeSet.html	False
+dads-0416	feedback vertex set	feedback vertex set	https://xlinux.nist.gov/dads/HTML/feedbackVertexSet.html	False
+dads-0417	Ferguson-Forcade algorithm	Ferguson-Forcade algorithm	https://xlinux.nist.gov/dads/HTML/fergusonForcade.html	False
+dads-0418	FFT	fast fourier transform	https://xlinux.nist.gov/dads/HTML/fastFourierTransform.html	True
+dads-0419	Fibonaccian search	Fibonaccian search	https://xlinux.nist.gov/dads/HTML/fibonaccianSearch.html	False
+dads-0420	Fibonacci heap	Fibonacci heap	https://xlinux.nist.gov/dads/HTML/fibonacciHeap.html	False
+dads-0421	Fibonacci number	Fibonacci number	https://xlinux.nist.gov/dads/HTML/fibonacciNumber.html	False
+dads-0422	Fibonacci tree	Fibonacci tree	https://xlinux.nist.gov/dads/HTML/fibonacciTree.html	False
+dads-0423	FIFO	queue	https://xlinux.nist.gov/dads/HTML/queue.html	True
+dads-0424	filial-heir chain	binary tree representation of trees	https://xlinux.nist.gov/dads/HTML/binaryTreeRepofTree.html	True
+dads-0425	Find	Find	https://xlinux.nist.gov/dads/HTML/find.html	False
+dads-0426	find k th least element	select k th element	https://xlinux.nist.gov/dads/HTML/selectkth.html	True
+dads-0427	finitary tree	finitary tree	https://xlinux.nist.gov/dads/HTML/finitarytree.html	False
+dads-0428	finite Fourier transform	finite Fourier transform	https://xlinux.nist.gov/dads/HTML/finiteFourierTransform.html	False
+dads-0429	finite state automaton	finite state machine	https://xlinux.nist.gov/dads/HTML/finiteStateMachine.html	True
+dads-0430	finite state machine	finite state machine	https://xlinux.nist.gov/dads/HTML/finiteStateMachine.html	False
+dads-0431	finite state machine minimization	finite state machine minimization	https://xlinux.nist.gov/dads/HTML/finitestmmin.html	False
+dads-0432	finite state transducer	finite state transducer	https://xlinux.nist.gov/dads/HTML/finiteStateTransducer.html	False
+dads-0433	first child-next sibling binary tree	binary tree representation of trees	https://xlinux.nist.gov/dads/HTML/binaryTreeRepofTree.html	True
+dads-0434	first come, first served	first come, first served	https://xlinux.nist.gov/dads/HTML/firstcome.html	False
+dads-0435	first-in, first-out	first-in, first-out	https://xlinux.nist.gov/dads/HTML/firstinfrstt.html	False
+dads-0436	Fisher-Yates shuffle	Fisher-Yates shuffle	https://xlinux.nist.gov/dads/HTML/fisherYatesShuffle.html	False
+dads-0437	fixed-grid method	fixed-grid method	https://xlinux.nist.gov/dads/HTML/fixedgrdmthd.html	False
+dads-0438	flash sort	flash sort	https://xlinux.nist.gov/dads/HTML/flashsort.html	False
+dads-0439	flow	flow	https://xlinux.nist.gov/dads/HTML/flow.html	False
+dads-0440	flow conservation	flow conservation	https://xlinux.nist.gov/dads/HTML/flowconsrvtn.html	False
+dads-0441	flow function	flow function	https://xlinux.nist.gov/dads/HTML/flowfunction.html	False
+dads-0442	flow network	flow network	https://xlinux.nist.gov/dads/HTML/flownetwork.html	False
+dads-0443	Floyd-Warshall algorithm	Floyd-Warshall algorithm	https://xlinux.nist.gov/dads/HTML/floydWarshall.html	False
+dads-0444	Ford-Bellman	Bellman-Ford algorithm	https://xlinux.nist.gov/dads/HTML/bellmanford.html	True
+dads-0445	Ford-Fulkerson method	Ford-Fulkerson method	https://xlinux.nist.gov/dads/HTML/fordFulkerson.html	False
+dads-0446	forest	forest	https://xlinux.nist.gov/dads/HTML/forest.html	False
+dads-0447	forest editing problem	forest editing problem	https://xlinux.nist.gov/dads/HTML/forestedit.html	False
+dads-0448	formal language	language	https://xlinux.nist.gov/dads/HTML/language.html	True
+dads-0449	formal methods	formal methods	https://xlinux.nist.gov/dads/HTML/formalmethod.html	False
+dads-0450	formal verification	formal verification	https://xlinux.nist.gov/dads/HTML/formalverf.html	False
+dads-0451	forward index	forward index	https://xlinux.nist.gov/dads/HTML/forwardIndex.html	False
+dads-0452	fractional knapsack problem	fractional knapsack problem	https://xlinux.nist.gov/dads/HTML/fractionalKnapsack.html	False
+dads-0453	fractional solution	fractional solution	https://xlinux.nist.gov/dads/HTML/fractional.html	False
+dads-0454	free edge	free edge	https://xlinux.nist.gov/dads/HTML/freeedge.html	False
+dads-0455	free tree	free tree	https://xlinux.nist.gov/dads/HTML/freetree.html	False
+dads-0456	free vertex	free vertex	https://xlinux.nist.gov/dads/HTML/freevertex.html	False
+dads-0457	frequency count heuristic	frequency count heuristic	https://xlinux.nist.gov/dads/HTML/frequencyCountHueristic.html	False
+dads-0458	full array	full array	https://xlinux.nist.gov/dads/HTML/fullArray.html	False
+dads-0459	full binary tree	full binary tree	https://xlinux.nist.gov/dads/HTML/fullBinaryTree.html	False
+dads-0460	full inverted index	full inverted index	https://xlinux.nist.gov/dads/HTML/fullInvertedIndex.html	False
+dads-0461	fully dynamic graph problem	fully dynamic graph problem	https://xlinux.nist.gov/dads/HTML/fullydynamic.html	False
+dads-0462	fully persistent data structure	fully persistent data structure	https://xlinux.nist.gov/dads/HTML/fullyPersistData.html	False
+dads-0463	fully polynomial approximation scheme	fully polynomial approximation scheme	https://xlinux.nist.gov/dads/HTML/fullypolynml.html	False
+dads-0464	function	function	https://xlinux.nist.gov/dads/HTML/function.html	False
+dads-0465	functional data structure	active data structure	https://xlinux.nist.gov/dads/HTML/activeDataStruc.html	True
+dads-0466	Galil-Giancarlo	Galil-Giancarlo	https://xlinux.nist.gov/dads/HTML/galilgiancar.html	False
+dads-0467	Galil-Seiferas	Galil-Seiferas	https://xlinux.nist.gov/dads/HTML/galilseifers.html	False
+dads-0468	gamma function	gamma function	https://xlinux.nist.gov/dads/HTML/gammaFunction.html	False
+dads-0469	GBD-tree	GBD-tree	https://xlinux.nist.gov/dads/HTML/gbdtree.html	False
+dads-0470	GCD	greatest common divisor	https://xlinux.nist.gov/dads/HTML/greatestCommonDivisor.html	True
+dads-0471	geometric optimization problem	geometric optimization problem	https://xlinux.nist.gov/dads/HTML/geometricopt.html	False
+dads-0472	global optimum	global optimum	https://xlinux.nist.gov/dads/HTML/globalOptimum.html	False
+dads-0473	gnome sort	gnome sort	https://xlinux.nist.gov/dads/HTML/gnomeSort.html	False
+dads-0474	graph	graph	https://xlinux.nist.gov/dads/HTML/graph.html	False
+dads-0475	graph coloring	graph coloring	https://xlinux.nist.gov/dads/HTML/graphcolorng.html	False
+dads-0476	graph concentration	graph concentration	https://xlinux.nist.gov/dads/HTML/graphconcen.html	False
+dads-0477	graph drawing	graph drawing	https://xlinux.nist.gov/dads/HTML/graphdrawing.html	False
+dads-0478	graph isomorphism	graph isomorphism	https://xlinux.nist.gov/dads/HTML/graphisomrph.html	False
+dads-0479	graph partition	graph partition	https://xlinux.nist.gov/dads/HTML/graphPartition.html	False
+dads-0480	Gray code	Gray code	https://xlinux.nist.gov/dads/HTML/graycode.html	False
+dads-0481	greatest common divisor	greatest common divisor	https://xlinux.nist.gov/dads/HTML/greatestCommonDivisor.html	False
+dads-0482	greedy algorithm	greedy algorithm	https://xlinux.nist.gov/dads/HTML/greedyalgo.html	False
+dads-0483	greedy heuristic	greedy heuristic	https://xlinux.nist.gov/dads/HTML/greedyHeuristic.html	False
+dads-0484	grid drawing	grid drawing	https://xlinux.nist.gov/dads/HTML/griddrawing.html	False
+dads-0485	grid file	grid file	https://xlinux.nist.gov/dads/HTML/gridfile.html	False
+dads-0486	Grover's algorithm	Grover's algorithm	https://xlinux.nist.gov/dads/HTML/groversAlgo.html	False
+dads-0487	halting problem	halting problem	https://xlinux.nist.gov/dads/HTML/haltingProblem.html	False
+dads-0488	Hamiltonian cycle	Hamiltonian cycle	https://xlinux.nist.gov/dads/HTML/hamiltonianCycle.html	False
+dads-0489	Hamiltonian path	Hamiltonian path	https://xlinux.nist.gov/dads/HTML/hamiltonianPath.html	False
+dads-0490	Hamming distance	Hamming distance	https://xlinux.nist.gov/dads/HTML/HammingDistance.html	False
+dads-0491	hard split, easy merge	hard split, easy merge	https://xlinux.nist.gov/dads/HTML/hardSplitEasyMerge.html	False
+dads-0492	hash	hash function	https://xlinux.nist.gov/dads/HTML/hash.html	True
+dads-0493	hashbelt	hashbelt	https://xlinux.nist.gov/dads/HTML/hashbelt.html	False
+dads-0494	hash function	hash function	https://xlinux.nist.gov/dads/HTML/hash.html	False
+dads-0495	hash heap	hash heap	https://xlinux.nist.gov/dads/HTML/hashheap.html	False
+dads-0496	hash table	hash table	https://xlinux.nist.gov/dads/HTML/hashtab.html	False
+dads-0497	hash table delete	hash table delete	https://xlinux.nist.gov/dads/HTML/hashtabdelet.html	False
+dads-0498	hash tree	Merkle tree	https://xlinux.nist.gov/dads/HTML/MerkleTree.html	True
+dads-0499	Hausdorff distance	Hausdorff distance	https://xlinux.nist.gov/dads/HTML/hausdorffdst.html	False
+dads-0500	hB-tree	hB-tree	https://xlinux.nist.gov/dads/HTML/hbtree.html	False
+dads-0501	head	head	https://xlinux.nist.gov/dads/HTML/head.html	False
+dads-0502	heap	heap	https://xlinux.nist.gov/dads/HTML/heap.html	False
+dads-0503	heapify	heapify	https://xlinux.nist.gov/dads/HTML/heapify.html	False
+dads-0504	heap property	heap property	https://xlinux.nist.gov/dads/HTML/heapproperty.html	False
+dads-0505	heapsort	heapsort	https://xlinux.nist.gov/dads/HTML/heapSort.html	False
+dads-0506	heaviest common subsequence	longest common subsequence	https://xlinux.nist.gov/dads/HTML/longestCommonSubsequence.html	True
+dads-0507	height	height	https://xlinux.nist.gov/dads/HTML/height.html	False
+dads-0508	height-balanced binary search tree	height-balanced binary search tree	https://xlinux.nist.gov/dads/HTML/heightBalancedBinSrchTree.html	False
+dads-0509	height-balanced tree	height-balanced tree	https://xlinux.nist.gov/dads/HTML/heightBalancedTree.html	False
+dads-0510	heuristic	heuristic	https://xlinux.nist.gov/dads/HTML/heuristic.html	False
+dads-0511	hidden Markov model	hidden Markov model	https://xlinux.nist.gov/dads/HTML/hiddenMarkovModel.html	False
+dads-0512	highest common factor	greatest common divisor	https://xlinux.nist.gov/dads/HTML/greatestCommonDivisor.html	True
+dads-0513	histogram sort	histogram sort	https://xlinux.nist.gov/dads/HTML/histogramSort.html	False
+dads-0514	HMM	hidden Markov model	https://xlinux.nist.gov/dads/HTML/hiddenMarkovModel.html	True
+dads-0515	homeomorphic	homeomorphic	https://xlinux.nist.gov/dads/HTML/homeomorphic.html	False
+dads-0516	horizontal visibility map	horizontal visibility map	https://xlinux.nist.gov/dads/HTML/horizontalVisMap.html	False
+dads-0517	Horner's rule	Horner's rule	https://xlinux.nist.gov/dads/HTML/hornersrule.html	False
+dads-0518	Horspool	Boyer-Moore-Horspool	https://xlinux.nist.gov/dads/HTML/boyerMooreHorspool.html	True
+dads-0519	hsadelta	hsadelta	https://xlinux.nist.gov/dads/HTML/hsadelta.html	False
+dads-0520	Huffman coding	Huffman coding	https://xlinux.nist.gov/dads/HTML/huffmanCoding.html	False
+dads-0521	huge sparse array	huge sparse array	https://xlinux.nist.gov/dads/HTML/hugeSparseArray.html	False
+dads-0522	Hungarian algorithm	Munkres' assignment algorithm	https://xlinux.nist.gov/dads/HTML/munkresAssignment.html	True
+dads-0523	hybrid algorithm	hybrid algorithm	https://xlinux.nist.gov/dads/HTML/hybridAlgorithm.html	False
+dads-0524	hyperedge	hyperedge	https://xlinux.nist.gov/dads/HTML/hyperedge.html	False
+dads-0525	hypergraph	hypergraph	https://xlinux.nist.gov/dads/HTML/hypergraph.html	False
+dads-0526	HyperLogLog	HyperLogLog	https://xlinux.nist.gov/dads/HTML/hyperloglog.html	False
+dads-0527	IBLT	invertible Bloom lookup table	https://xlinux.nist.gov/dads/HTML/invertibleBloomTable.html	True
+dads-0528	ideal merge	ideal merge	https://xlinux.nist.gov/dads/HTML/idealmerge.html	False
+dads-0529	ideal random shuffle	ideal random shuffle	https://xlinux.nist.gov/dads/HTML/idealRandomShuffle.html	False
+dads-0530	implication	implication	https://xlinux.nist.gov/dads/HTML/implication.html	False
+dads-0531	implies	implies	https://xlinux.nist.gov/dads/HTML/implies.html	False
+dads-0532	inclusion-exclusion principle	inclusion-exclusion principle	https://xlinux.nist.gov/dads/HTML/inclusion.html	False
+dads-0533	inclusive or	or	https://xlinux.nist.gov/dads/HTML/or.html	True
+dads-0534	incompressible string	incompressible string	https://xlinux.nist.gov/dads/HTML/incompressbl.html	False
+dads-0535	incremental hashing	linear hashing	https://xlinux.nist.gov/dads/HTML/linearHashing.html	True
+dads-0536	in-degree	in-degree	https://xlinux.nist.gov/dads/HTML/indegree.html	False
+dads-0537	independent set	independent set	https://xlinux.nist.gov/dads/HTML/independentSet.html	False
+dads-0538	index file	index file	https://xlinux.nist.gov/dads/HTML/indexfile.html	False
+dads-0539	information theoretic bound	information theoretic bound	https://xlinux.nist.gov/dads/HTML/information.html	False
+dads-0540	in-order traversal	in-order traversal	https://xlinux.nist.gov/dads/HTML/inorderTraversal.html	False
+dads-0541	in-place sort	in-place sort	https://xlinux.nist.gov/dads/HTML/inplacesort.html	False
+dads-0542	insertion sort	insertion sort	https://xlinux.nist.gov/dads/HTML/insertionSort.html	False
+dads-0543	integer linear program	integer linear program	https://xlinux.nist.gov/dads/HTML/integerliner.html	False
+dads-0544	integer multi-commodity flow	integer multi-commodity flow	https://xlinux.nist.gov/dads/HTML/integermulti.html	False
+dads-0545	integer polyhedron	integer polyhedron	https://xlinux.nist.gov/dads/HTML/integer.html	False
+dads-0546	interactive proof system	interactive proof system	https://xlinux.nist.gov/dads/HTML/interactvprf.html	False
+dads-0547	interior-based representation	interior-based representation	https://xlinux.nist.gov/dads/HTML/interiorbasd.html	False
+dads-0548	internal node	internal node	https://xlinux.nist.gov/dads/HTML/internalnode.html	False
+dads-0549	internal sort	internal sort	https://xlinux.nist.gov/dads/HTML/internalsort.html	False
+dads-0550	interpolation search	interpolation search	https://xlinux.nist.gov/dads/HTML/interpolationSearch.html	False
+dads-0551	interpolation-sequential search	interpolation-sequential search	https://xlinux.nist.gov/dads/HTML/interpsequen.html	False
+dads-0552	interpolation sort	histogram sort	https://xlinux.nist.gov/dads/HTML/histogramSort.html	True
+dads-0553	intersection	intersection	https://xlinux.nist.gov/dads/HTML/intersection.html	False
+dads-0554	interval tree	interval tree	https://xlinux.nist.gov/dads/HTML/intervaltree.html	False
+dads-0555	intractable	intractable	https://xlinux.nist.gov/dads/HTML/intractable.html	False
+dads-0556	introsort	introspective sort	https://xlinux.nist.gov/dads/HTML/introspectiveSort.html	True
+dads-0557	introspective sort	introspective sort	https://xlinux.nist.gov/dads/HTML/introspectiveSort.html	False
+dads-0558	inverse Ackermann function	inverse Ackermann function	https://xlinux.nist.gov/dads/HTML/inverseAckermann.html	False
+dads-0559	inverse suffix array	inverse suffix array	https://xlinux.nist.gov/dads/HTML/inverseSuffixArray.html	False
+dads-0560	inversion list	inversion list	https://xlinux.nist.gov/dads/HTML/inversionList.html	False
+dads-0561	inverted file index	inverted file index	https://xlinux.nist.gov/dads/HTML/invertedFileIndex.html	False
+dads-0562	inverted index	inverted index	https://xlinux.nist.gov/dads/HTML/invertedIndex.html	False
+dads-0563	invertible Bloom lookup table	invertible Bloom lookup table	https://xlinux.nist.gov/dads/HTML/invertibleBloomTable.html	False
+dads-0564	irreflexive	irreflexive	https://xlinux.nist.gov/dads/HTML/irreflexive.html	False
+dads-0565	isomorphic	isomorphic	https://xlinux.nist.gov/dads/HTML/isomorphic.html	False
+dads-0566	iteration	iteration	https://xlinux.nist.gov/dads/HTML/iteration.html	False
+dads-0567	Jaro-Winkler	Jaro-Winkler	https://xlinux.nist.gov/dads/HTML/jaroWinkler.html	False
+dads-0568	jelly-fish	jelly-fish	https://xlinux.nist.gov/dads/HTML/jellyfish.html	False
+dads-0569	Johnson's algorithm	Johnson's algorithm	https://xlinux.nist.gov/dads/HTML/johnsonsAlgorithm.html	False
+dads-0570	Johnson-Trotter	Johnson-Trotter	https://xlinux.nist.gov/dads/HTML/johnsonTrotter.html	False
+dads-0571	JSort	JSort	https://xlinux.nist.gov/dads/HTML/JSort.html	False
+dads-0572	J sort	J sort	https://xlinux.nist.gov/dads/HTML/j_sort.html	False
+dads-0573	jump list	jump list	https://xlinux.nist.gov/dads/HTML/jumpList.html	False
+dads-0574	jump search	jump search	https://xlinux.nist.gov/dads/HTML/jumpsearch.html	False
+dads-0575	Karnaugh map	Karnaugh map	https://xlinux.nist.gov/dads/HTML/karnaughmap.html	False
+dads-0576	Karp-Rabin	Karp-Rabin	https://xlinux.nist.gov/dads/HTML/karpRabin.html	False
+dads-0577	Karp reduction	Karp reduction	https://xlinux.nist.gov/dads/HTML/karpreductin.html	False
+dads-0578	k-ary heap	k-ary heap	https://xlinux.nist.gov/dads/HTML/karyheap.html	False
+dads-0579	k-ary Huffman coding	k-ary Huffman coding	https://xlinux.nist.gov/dads/HTML/karyHuffman.html	False
+dads-0580	k-ary tree	k-ary tree	https://xlinux.nist.gov/dads/HTML/karyTree.html	False
+dads-0581	k-clustering	k-clustering	https://xlinux.nist.gov/dads/HTML/kclustering.html	False
+dads-0582	k-coloring	k-coloring	https://xlinux.nist.gov/dads/HTML/kcoloring.html	False
+dads-0583	k-connected graph	k-connected graph	https://xlinux.nist.gov/dads/HTML/kconnectedGraph.html	False
+dads-0584	k-d-B-tree	k-d-B-tree	https://xlinux.nist.gov/dads/HTML/kdbtree.html	False
+dads-0585	k-dimensional	k-dimensional	https://xlinux.nist.gov/dads/HTML/kdimensional.html	False
+dads-0586	K-dominant match	K-dominant match	https://xlinux.nist.gov/dads/HTML/kdominant.html	False
+dads-0587	k-d tree	k-d tree	https://xlinux.nist.gov/dads/HTML/kdtree.html	False
+dads-0588	key	key	https://xlinux.nist.gov/dads/HTML/key.html	False
+dads-0589	KMP	Knuth-Morris-Pratt algorithm	https://xlinux.nist.gov/dads/HTML/knuthMorrisPratt.html	True
+dads-0590	KmpSkip Search	KmpSkip Search	https://xlinux.nist.gov/dads/HTML/kmpskipsrch.html	False
+dads-0591	knapsack problem	knapsack problem	https://xlinux.nist.gov/dads/HTML/knapsackProblem.html	False
+dads-0592	knight's tour	knight's tour	https://xlinux.nist.gov/dads/HTML/knightstour.html	False
+dads-0593	Knuth-Morris-Pratt algorithm	Knuth-Morris-Pratt algorithm	https://xlinux.nist.gov/dads/HTML/knuthMorrisPratt.html	False
+dads-0594	Königsberg bridges problem	Euler cycle	https://xlinux.nist.gov/dads/HTML/eulercycle.html	True
+dads-0595	Kolmogorov complexity	Kolmogorov complexity	https://xlinux.nist.gov/dads/HTML/kolmogorov.html	False
+dads-0596	Kraft's inequality	Kraft's inequality	https://xlinux.nist.gov/dads/HTML/kraftsinqlty.html	False
+dads-0597	Kripke structure	Kripke structure	https://xlinux.nist.gov/dads/HTML/kripkeStruct.html	False
+dads-0598	Kruskal's algorithm	Kruskal's algorithm	https://xlinux.nist.gov/dads/HTML/kruskalsalgo.html	False
+dads-0599	kth order Fibonacci numbers	kth order Fibonacci numbers	https://xlinux.nist.gov/dads/HTML/kthOrderFibonacci.html	False
+dads-0600	k th shortest path	k th shortest path	https://xlinux.nist.gov/dads/HTML/kthShortestPath.html	False
+dads-0601	k th smallest element	select k th element	https://xlinux.nist.gov/dads/HTML/selectkth.html	True
+dads-0602	k²-tree	k²-tree	https://xlinux.nist.gov/dads/HTML/k2tree.html	False
+dads-0603	KV diagram	Karnaugh map	https://xlinux.nist.gov/dads/HTML/karnaughmap.html	True
+dads-0604	k-way merge	k-way merge	https://xlinux.nist.gov/dads/HTML/kwaymerge.html	False
+dads-0605	k-way merge sort	k-way merge sort	https://xlinux.nist.gov/dads/HTML/kwayMergeSort.html	False
+dads-0606	k-way tree	k-ary tree	https://xlinux.nist.gov/dads/HTML/karyTree.html	True
+dads-0607	labeled graph	labeled graph	https://xlinux.nist.gov/dads/HTML/labeledgraph.html	False
+dads-0608	language	language	https://xlinux.nist.gov/dads/HTML/language.html	False
+dads-0609	last-in, first-out	last-in, first-out	https://xlinux.nist.gov/dads/HTML/lastfirstout.html	False
+dads-0610	Las Vegas algorithm	Las Vegas algorithm	https://xlinux.nist.gov/dads/HTML/lasVegas.html	False
+dads-0611	lattice	lattice	https://xlinux.nist.gov/dads/HTML/lattice.html	False
+dads-0612	layered graph	layered graph	https://xlinux.nist.gov/dads/HTML/layeredgraph.html	False
+dads-0613	LCFS hashing	LCFS hashing	https://xlinux.nist.gov/dads/HTML/lcfsHashing.html	False
+dads-0614	LCM	least common multiple	https://xlinux.nist.gov/dads/HTML/leastCommonMultiple.html	True
+dads-0615	LCS	LCS	https://xlinux.nist.gov/dads/HTML/LCS.html	False
+dads-0616	LDS	linked data signature	https://xlinux.nist.gov/dads/HTML/linkedDataSignature.html	True
+dads-0617	leaf	leaf	https://xlinux.nist.gov/dads/HTML/leaf.html	False
+dads-0618	least common multiple	least common multiple	https://xlinux.nist.gov/dads/HTML/leastCommonMultiple.html	False
+dads-0619	leftist tree	leftist tree	https://xlinux.nist.gov/dads/HTML/leftisttree.html	False
+dads-0620	left rotation	left rotation	https://xlinux.nist.gov/dads/HTML/leftrotation.html	False
+dads-0621	Lempel-Ziv-Welch	Lempel-Ziv-Welch	https://xlinux.nist.gov/dads/HTML/lempelZivWelch.html	False
+dads-0622	level	level	https://xlinux.nist.gov/dads/HTML/level.html	False
+dads-0623	level-order traversal	level-order traversal	https://xlinux.nist.gov/dads/HTML/levelOrderTraversal.html	False
+dads-0624	Levenshtein distance	Levenshtein distance	https://xlinux.nist.gov/dads/HTML/Levenshtein.html	False
+dads-0625	lexicographical order	lexicographical order	https://xlinux.nist.gov/dads/HTML/lexicgrphcl.html	False
+dads-0626	LIFO	stack	https://xlinux.nist.gov/dads/HTML/stack.html	True
+dads-0627	linear	linear	https://xlinux.nist.gov/dads/HTML/linear.html	False
+dads-0628	linear congruential generator	linear congruential generator	https://xlinux.nist.gov/dads/HTML/linearCongruentGen.html	False
+dads-0629	linear hash	linear hash	https://xlinux.nist.gov/dads/HTML/linearhash.html	False
+dads-0630	linear hashing	linear hashing	https://xlinux.nist.gov/dads/HTML/linearHashing.html	False
+dads-0631	linear insertion sort	insertion sort	https://xlinux.nist.gov/dads/HTML/insertionSort.html	True
+dads-0632	linear order	total order	https://xlinux.nist.gov/dads/HTML/totalorder.html	True
+dads-0633	linear probing	linear probing	https://xlinux.nist.gov/dads/HTML/linearprobng.html	False
+dads-0634	linear probing sort	linear probing sort	https://xlinux.nist.gov/dads/HTML/linearProbingSort.html	False
+dads-0635	linear product	linear product	https://xlinux.nist.gov/dads/HTML/linearprodct.html	False
+dads-0636	linear program	linear program	https://xlinux.nist.gov/dads/HTML/linearProgramming.html	False
+dads-0637	linear quadtree	linear quadtree	https://xlinux.nist.gov/dads/HTML/linearquadtr.html	False
+dads-0638	linear search	linear search	https://xlinux.nist.gov/dads/HTML/linearSearch.html	False
+dads-0639	link	link	https://xlinux.nist.gov/dads/HTML/link.html	False
+dads-0640	linked data signature	linked data signature	https://xlinux.nist.gov/dads/HTML/linkedDataSignature.html	False
+dads-0641	linked list	linked list	https://xlinux.nist.gov/dads/HTML/linkedList.html	False
+dads-0642	list	list	https://xlinux.nist.gov/dads/HTML/list.html	False
+dads-0643	list contraction	list contraction	https://xlinux.nist.gov/dads/HTML/listcontrctn.html	False
+dads-0644	little-o notation	little-o notation	https://xlinux.nist.gov/dads/HTML/littleOnotation.html	False
+dads-0645	L m distance	L m distance	https://xlinux.nist.gov/dads/HTML/lmdistance.html	False
+dads-0646	load factor	load factor	https://xlinux.nist.gov/dads/HTML/loadfactor.html	False
+dads-0647	local alignment	local alignment	https://xlinux.nist.gov/dads/HTML/localalgnmnt.html	False
+dads-0648	locality-sensitive hashing	locality-sensitive hashing	https://xlinux.nist.gov/dads/HTML/localitySensitiveHashing.html	False
+dads-0649	local optimum	local optimum	https://xlinux.nist.gov/dads/HTML/localoptimum.html	False
+dads-0650	logarithmic	logarithmic	https://xlinux.nist.gov/dads/HTML/logarithmic.html	False
+dads-0651	longest common subsequence	longest common subsequence	https://xlinux.nist.gov/dads/HTML/longestCommonSubsequence.html	False
+dads-0652	longest common substring	longest common substring	https://xlinux.nist.gov/dads/HTML/longestCommonSubstring.html	False
+dads-0653	Lotka's law	Lotka's law	https://xlinux.nist.gov/dads/HTML/lotkaslaw.html	False
+dads-0654	lower bound	lower bound	https://xlinux.nist.gov/dads/HTML/lowerbound.html	False
+dads-0655	lower triangular matrix	lower triangular matrix	https://xlinux.nist.gov/dads/HTML/lowerTriangularMatrix.html	False
+dads-0656	lowest common ancestor	lowest common ancestor	https://xlinux.nist.gov/dads/HTML/lowestcommon.html	False
+dads-0657	l-reduction	l-reduction	https://xlinux.nist.gov/dads/HTML/lreduction.html	False
+dads-0658	lucky sort	lucky sort	https://xlinux.nist.gov/dads/HTML/luckySort.html	False
+dads-0659	LZW compression	Lempel-Ziv-Welch	https://xlinux.nist.gov/dads/HTML/lempelZivWelch.html	True
+dads-0660	Malhotra-Kumar-Maheshwari blocking flow	Malhotra-Kumar-Maheshwari blocking flow	https://xlinux.nist.gov/dads/HTML/malhotraKumr.html	False
+dads-0661	Manhattan distance	Manhattan distance	https://xlinux.nist.gov/dads/HTML/manhattanDistance.html	False
+dads-0662	many-one reduction	many-one reduction	https://xlinux.nist.gov/dads/HTML/manyonerdctn.html	False
+dads-0663	map	dictionary	https://xlinux.nist.gov/dads/HTML/dictionary.html	True
+dads-0664	Markov chain	Markov chain	https://xlinux.nist.gov/dads/HTML/markovchain.html	False
+dads-0665	Marlena	Marlena	https://xlinux.nist.gov/dads/HTML/marlena.html	False
+dads-0666	marriage problem	assignment problem	https://xlinux.nist.gov/dads/HTML/assignment.html	True
+dads-0667	Master theorem	Master theorem	https://xlinux.nist.gov/dads/HTML/mastertheorm.html	False
+dads-0668	matched edge	matched edge	https://xlinux.nist.gov/dads/HTML/matchededge.html	False
+dads-0669	matched vertex	matched vertex	https://xlinux.nist.gov/dads/HTML/matchedvertx.html	False
+dads-0670	matching	matching	https://xlinux.nist.gov/dads/HTML/matching.html	False
+dads-0671	matrix	matrix	https://xlinux.nist.gov/dads/HTML/matrix.html	False
+dads-0672	matrix-chain multiplication problem	matrix-chain multiplication problem	https://xlinux.nist.gov/dads/HTML/matrxchnmltp.html	False
+dads-0673	matrix multiplication	matrix multiplication	https://xlinux.nist.gov/dads/HTML/matrixMultiply.html	False
+dads-0674	max-heap property	max-heap property	https://xlinux.nist.gov/dads/HTML/maxheapprop.html	False
+dads-0675	maximal independent set	maximal independent set	https://xlinux.nist.gov/dads/HTML/maximalIndependentSet.html	False
+dads-0676	maximally connected component	maximally connected component	https://xlinux.nist.gov/dads/HTML/maximallyConnectedComponent.html	False
+dads-0677	Maximal Shift	Maximal Shift	https://xlinux.nist.gov/dads/HTML/maximalshift.html	False
+dads-0678	maximum bipartite matching	bipartite matching	https://xlinux.nist.gov/dads/HTML/bipartmatch.html	True
+dads-0679	maximum-flow problem	maximum-flow problem	https://xlinux.nist.gov/dads/HTML/maximumflow.html	False
+dads-0680	MBB	minimum bounding box	https://xlinux.nist.gov/dads/HTML/minimumBoundingBox.html	True
+dads-0681	Mealy machine	Mealy machine	https://xlinux.nist.gov/dads/HTML/mealyMachine.html	False
+dads-0682	mean	mean	https://xlinux.nist.gov/dads/HTML/mean.html	False
+dads-0683	median	median	https://xlinux.nist.gov/dads/HTML/median.html	False
+dads-0684	meld	meld	https://xlinux.nist.gov/dads/HTML/meld.html	False
+dads-0685	memoization	memoization	https://xlinux.nist.gov/dads/HTML/memoize.html	False
+dads-0686	merge	merge	https://xlinux.nist.gov/dads/HTML/merge.html	False
+dads-0687	merge sort	merge sort	https://xlinux.nist.gov/dads/HTML/mergesort.html	False
+dads-0688	Merkle tree	Merkle tree	https://xlinux.nist.gov/dads/HTML/MerkleTree.html	False
+dads-0689	metaheuristic	metaheuristic	https://xlinux.nist.gov/dads/HTML/metaheuristic.html	False
+dads-0690	metaphone	metaphone	https://xlinux.nist.gov/dads/HTML/metaphone.html	False
+dads-0691	midrange	midrange	https://xlinux.nist.gov/dads/HTML/midrange.html	False
+dads-0692	Miller-Rabin	Miller-Rabin	https://xlinux.nist.gov/dads/HTML/millerRabin.html	False
+dads-0693	min-heap property	min-heap property	https://xlinux.nist.gov/dads/HTML/minheapprop.html	False
+dads-0694	minimal perfect hashing	minimal perfect hashing	https://xlinux.nist.gov/dads/HTML/minimalPerfectHash.html	False
+dads-0695	minimax	minimax	https://xlinux.nist.gov/dads/HTML/minimax.html	False
+dads-0696	minimum bounding box	minimum bounding box	https://xlinux.nist.gov/dads/HTML/minimumBoundingBox.html	False
+dads-0697	minimum cut	minimum cut	https://xlinux.nist.gov/dads/HTML/minimumcut.html	False
+dads-0698	minimum spanning tree	minimum spanning tree	https://xlinux.nist.gov/dads/HTML/minimumSpanningTree.html	False
+dads-0699	minimum vertex cut	minimum vertex cut	https://xlinux.nist.gov/dads/HTML/minvertexcut.html	False
+dads-0700	Minkowski distance	L m distance	https://xlinux.nist.gov/dads/HTML/lmdistance.html	True
+dads-0701	mixed integer linear program	mixed integer linear program	https://xlinux.nist.gov/dads/HTML/mixedinteger.html	False
+dads-0702	mode	mode	https://xlinux.nist.gov/dads/HTML/mode.html	False
+dads-0703	model checking	model checking	https://xlinux.nist.gov/dads/HTML/modelcheckng.html	False
+dads-0704	model of computation	model of computation	https://xlinux.nist.gov/dads/HTML/modelOfComputation.html	False
+dads-0705	moderately exponential	moderately exponential	https://xlinux.nist.gov/dads/HTML/moderatexpon.html	False
+dads-0706	MODIFIND	MODIFIND	https://xlinux.nist.gov/dads/HTML/modifind.html	False
+dads-0707	monotone priority queue	monotone priority queue	https://xlinux.nist.gov/dads/HTML/monotonprioq.html	False
+dads-0708	monotonically decreasing	monotonically decreasing	https://xlinux.nist.gov/dads/HTML/monotonicallyDecreasing.html	False
+dads-0709	monotonically increasing	monotonically increasing	https://xlinux.nist.gov/dads/HTML/monotonicallyIncreasing.html	False
+dads-0710	Monte Carlo algorithm	Monte Carlo algorithm	https://xlinux.nist.gov/dads/HTML/monteCarlo.html	False
+dads-0711	Moore machine	Moore machine	https://xlinux.nist.gov/dads/HTML/mooreMachine.html	False
+dads-0712	Morris-Pratt algorithm	Morris-Pratt algorithm	https://xlinux.nist.gov/dads/HTML/morrispratt.html	False
+dads-0713	move	transition	https://xlinux.nist.gov/dads/HTML/transition.html	True
+dads-0714	move-to-front heuristic	move-to-front heuristic	https://xlinux.nist.gov/dads/HTML/movefront.html	False
+dads-0715	move-to-root heuristic	move-to-root heuristic	https://xlinux.nist.gov/dads/HTML/movetoroot.html	False
+dads-0716	MST	minimum spanning tree	https://xlinux.nist.gov/dads/HTML/minimumSpanningTree.html	True
+dads-0717	multi-commodity flow	multi-commodity flow	https://xlinux.nist.gov/dads/HTML/multicommdty.html	False
+dads-0718	multigraph	multigraph	https://xlinux.nist.gov/dads/HTML/multigraph.html	False
+dads-0719	multikey Quicksort	multikey Quicksort	https://xlinux.nist.gov/dads/HTML/multikeyQuicksort.html	False
+dads-0720	multilayer grid file	multilayer grid file	https://xlinux.nist.gov/dads/HTML/multilaygrd.html	False
+dads-0721	multiplication method	multiplication method	https://xlinux.nist.gov/dads/HTML/multiplicationMethod.html	False
+dads-0722	multiprefix	multiprefix	https://xlinux.nist.gov/dads/HTML/multiprefix.html	False
+dads-0723	multiprocessor model	multiprocessor model	https://xlinux.nist.gov/dads/HTML/multiprocssr.html	False
+dads-0724	multi-set	bag	https://xlinux.nist.gov/dads/HTML/bag.html	True
+dads-0725	multi suffix tree	multi suffix tree	https://xlinux.nist.gov/dads/HTML/multiSuffixTree.html	False
+dads-0726	multiway decision	multiway decision	https://xlinux.nist.gov/dads/HTML/multiwayDecision.html	False
+dads-0727	multiway merge	multiway merge	https://xlinux.nist.gov/dads/HTML/multiwayMerge.html	False
+dads-0728	multiway search tree	multiway search tree	https://xlinux.nist.gov/dads/HTML/multiwaySearchTree.html	False
+dads-0729	multiway tree	multiway tree	https://xlinux.nist.gov/dads/HTML/multiwaytree.html	False
+dads-0730	Munkres' assignment algorithm	Munkres' assignment algorithm	https://xlinux.nist.gov/dads/HTML/munkresAssignment.html	False
+dads-0731	naive string search	brute force string search	https://xlinux.nist.gov/dads/HTML/bruteForceStringSearch.html	True
+dads-0732	nand	nand	https://xlinux.nist.gov/dads/HTML/nand.html	False
+dads-0733	n-ary function	n-ary function	https://xlinux.nist.gov/dads/HTML/naryfunc.html	False
+dads-0734	NC many-one reducibility	NC many-one reducibility	https://xlinux.nist.gov/dads/HTML/nCmanyone.html	False
+dads-0735	nearest neighbor	nearest neighbor	https://xlinux.nist.gov/dads/HTML/nearestNeighbor.html	False
+dads-0736	negation	negation	https://xlinux.nist.gov/dads/HTML/negation.html	False
+dads-0737	network flow	flow function	https://xlinux.nist.gov/dads/HTML/flowfunction.html	True
+dads-0738	network flow problem	maximum-flow problem	https://xlinux.nist.gov/dads/HTML/maximumflow.html	True
+dads-0739	next state	next state	https://xlinux.nist.gov/dads/HTML/nextstate.html	False
+dads-0740	NFA	nondeterministic finite state machine	https://xlinux.nist.gov/dads/HTML/nondetermFiniteStateMach.html	True
+dads-0741	NFTA	nondeterministic finite tree automaton	https://xlinux.nist.gov/dads/HTML/nondetermFiniteTreeAutom.html	True
+dads-0742	NIST	NIST	https://xlinux.nist.gov/dads/HTML/nist.html	False
+dads-0743	node	node	https://xlinux.nist.gov/dads/HTML/node.html	False
+dads-0744	nonbalanced merge	nonbalanced merge	https://xlinux.nist.gov/dads/HTML/nonbalancedMerge.html	False
+dads-0745	nonbalanced merge sort	nonbalanced merge sort	https://xlinux.nist.gov/dads/HTML/nonbalncmsrt.html	False
+dads-0746	nondeterministic	nondeterministic	https://xlinux.nist.gov/dads/HTML/nondeterministic.html	False
+dads-0747	nondeterministic algorithm	nondeterministic algorithm	https://xlinux.nist.gov/dads/HTML/nondetermAlgo.html	False
+dads-0748	nondeterministic finite automaton	nondeterministic finite state machine	https://xlinux.nist.gov/dads/HTML/nondetermFiniteStateMach.html	True
+dads-0749	nondeterministic finite state machine	nondeterministic finite state machine	https://xlinux.nist.gov/dads/HTML/nondetermFiniteStateMach.html	False
+dads-0750	nondeterministic finite tree automaton	nondeterministic finite tree automaton	https://xlinux.nist.gov/dads/HTML/nondetermFiniteTreeAutom.html	False
+dads-0751	nondeterministic polynomial time	NP	https://xlinux.nist.gov/dads/HTML/np.html	True
+dads-0752	nondeterministic tree automaton	nondeterministic tree automaton	https://xlinux.nist.gov/dads/HTML/nondetermTreeAutom.html	False
+dads-0753	nondeterministic Turing machine	nondeterministic Turing machine	https://xlinux.nist.gov/dads/HTML/nondetermTuringMach.html	False
+dads-0754	nonterminal node	internal node	https://xlinux.nist.gov/dads/HTML/internalnode.html	True
+dads-0755	nor	nor	https://xlinux.nist.gov/dads/HTML/nor.html	False
+dads-0756	not	not	https://xlinux.nist.gov/dads/HTML/not.html	False
+dads-0757	Not So Naive	Not So Naive	https://xlinux.nist.gov/dads/HTML/notsonaive.html	False
+dads-0758	NP	NP	https://xlinux.nist.gov/dads/HTML/np.html	False
+dads-0759	NP-complete	NP-complete	https://xlinux.nist.gov/dads/HTML/npcomplete.html	False
+dads-0760	NP-complete language	NP-complete language	https://xlinux.nist.gov/dads/HTML/nPcompltlngg.html	False
+dads-0761	NP-hard	NP-hard	https://xlinux.nist.gov/dads/HTML/nphard.html	False
+dads-0762	n queens	n queens	https://xlinux.nist.gov/dads/HTML/nqueens.html	False
+dads-0763	nullary function	0-ary function	https://xlinux.nist.gov/dads/HTML/zeroaryfunc.html	True
+dads-0764	null tree	null tree	https://xlinux.nist.gov/dads/HTML/nulltree.html	False
+dads-0765	NYSIIS	NYSIIS	https://xlinux.nist.gov/dads/HTML/nysiis.html	False
+dads-0766	O	big-O notation	https://xlinux.nist.gov/dads/HTML/bigOnotation.html	True
+dads-0767	OBDD	OBDD	https://xlinux.nist.gov/dads/HTML/obdd.html	False
+dads-0768	objective function	objective function	https://xlinux.nist.gov/dads/HTML/objective.html	False
+dads-0769	oblivious algorithm	oblivious algorithm	https://xlinux.nist.gov/dads/HTML/obliviousAlgorithm.html	False
+dads-0770	occurrence	occurrence	https://xlinux.nist.gov/dads/HTML/occurrence.html	False
+dads-0771	octree	octree	https://xlinux.nist.gov/dads/HTML/octree.html	False
+dads-0772	off-line algorithm	off-line algorithm	https://xlinux.nist.gov/dads/HTML/offline.html	False
+dads-0773	offset	offset	https://xlinux.nist.gov/dads/HTML/offset.html	False
+dads-0774	omega	omega	https://xlinux.nist.gov/dads/HTML/letterOmega.html	False
+dads-0775	omicron	omicron	https://xlinux.nist.gov/dads/HTML/omicron.html	False
+dads-0776	1-based indexing	1-based indexing	https://xlinux.nist.gov/dads/HTML/oneBasedIndexing.html	False
+dads-0777	one-dimensional	one-dimensional	https://xlinux.nist.gov/dads/HTML/onedimensnal.html	False
+dads-0778	on-line algorithm	on-line algorithm	https://xlinux.nist.gov/dads/HTML/online.html	False
+dads-0779	open addressing	open addressing	https://xlinux.nist.gov/dads/HTML/openAddressing.html	False
+dads-0780	optimal	optimal	https://xlinux.nist.gov/dads/HTML/optimal.html	False
+dads-0781	optimal cost	best-case cost	https://xlinux.nist.gov/dads/HTML/bestcasecost.html	True
+dads-0782	optimal hashing	perfect hashing	https://xlinux.nist.gov/dads/HTML/perfecthash.html	True
+dads-0783	optimal merge	optimal merge	https://xlinux.nist.gov/dads/HTML/optimalMerge.html	False
+dads-0784	optimal mismatch	optimal mismatch	https://xlinux.nist.gov/dads/HTML/optimalMismatch.html	False
+dads-0785	optimal polygon triangulation problem	optimal polygon triangulation problem	https://xlinux.nist.gov/dads/HTML/optimalPolygonTriangProb.html	False
+dads-0786	optimal polyphase merge	optimal polyphase merge	https://xlinux.nist.gov/dads/HTML/optimpolymrg.html	False
+dads-0787	optimal polyphase merge sort	optimal polyphase merge sort	https://xlinux.nist.gov/dads/HTML/optimalPolyphaseMergeSort.html	False
+dads-0788	optimal solution	optimal solution	https://xlinux.nist.gov/dads/HTML/optimalsoltn.html	False
+dads-0789	optimal triangulation problem	optimal triangulation problem	https://xlinux.nist.gov/dads/HTML/optimTriangulation.html	False
+dads-0790	optimal value	optimal value	https://xlinux.nist.gov/dads/HTML/optimalvalue.html	False
+dads-0791	optimization problem	optimization problem	https://xlinux.nist.gov/dads/HTML/optimization.html	False
+dads-0792	or	or	https://xlinux.nist.gov/dads/HTML/or.html	False
+dads-0793	oracle set	oracle set	https://xlinux.nist.gov/dads/HTML/oracleset.html	False
+dads-0794	oracle tape	oracle tape	https://xlinux.nist.gov/dads/HTML/oracletape.html	False
+dads-0795	oracle Turing machine	oracle Turing machine	https://xlinux.nist.gov/dads/HTML/oracleTur.html	False
+dads-0796	order	order	https://xlinux.nist.gov/dads/HTML/order.html	False
+dads-0797	ordered array	ordered array	https://xlinux.nist.gov/dads/HTML/orderedarry.html	False
+dads-0798	ordered binary decision diagram	OBDD	https://xlinux.nist.gov/dads/HTML/obdd.html	True
+dads-0799	ordered linked list	ordered linked list	https://xlinux.nist.gov/dads/HTML/orderedLinkedList.html	False
+dads-0800	ordered tree	ordered tree	https://xlinux.nist.gov/dads/HTML/orderedtree.html	False
+dads-0801	order-preserving hash	linear hash	https://xlinux.nist.gov/dads/HTML/linearhash.html	True
+dads-0802	order-preserving Huffman coding	order-preserving Huffman coding	https://xlinux.nist.gov/dads/HTML/orderPreservingHuffmanCoding.html	False
+dads-0803	order-preserving minimal perfect hashing	order-preserving minimal perfect hashing	https://xlinux.nist.gov/dads/HTML/orderPreservMinPerfectHash.html	False
+dads-0804	oriented acyclic graph	directed acyclic graph	https://xlinux.nist.gov/dads/HTML/directAcycGraph.html	True
+dads-0805	oriented graph	directed graph	https://xlinux.nist.gov/dads/HTML/directedGraph.html	True
+dads-0806	oriented tree	rooted tree	https://xlinux.nist.gov/dads/HTML/rootedtree.html	True
+dads-0807	orthogonal drawing	orthogonal drawing	https://xlinux.nist.gov/dads/HTML/orthogonalDrawing.html	False
+dads-0808	orthogonal lists	orthogonal lists	https://xlinux.nist.gov/dads/HTML/orthogonalLists.html	False
+dads-0809	orthogonally convex rectilinear polygon	orthogonally convex rectilinear polygon	https://xlinux.nist.gov/dads/HTML/orthogoncnvx.html	False
+dads-0810	oscillating merge sort	oscillating merge sort	https://xlinux.nist.gov/dads/HTML/oscillatingMergeSort.html	False
+dads-0811	out-degree	out-degree	https://xlinux.nist.gov/dads/HTML/outdegree.html	False
+dads-0812	P	P	https://xlinux.nist.gov/dads/HTML/p.html	False
+dads-0813	packing	packing	https://xlinux.nist.gov/dads/HTML/packing.html	False
+dads-0814	padding argument	padding argument	https://xlinux.nist.gov/dads/HTML/paddingrgmnt.html	False
+dads-0815	pagoda	pagoda	https://xlinux.nist.gov/dads/HTML/pagoda.html	False
+dads-0816	pairing heap	pairing heap	https://xlinux.nist.gov/dads/HTML/pairingHeap.html	False
+dads-0817	PAM	point access method	https://xlinux.nist.gov/dads/HTML/pointAccessMethod.html	True
+dads-0818	parallel computation thesis	parallel computation thesis	https://xlinux.nist.gov/dads/HTML/parallel.html	False
+dads-0819	parallel prefix computation	parallel prefix computation	https://xlinux.nist.gov/dads/HTML/parallelPrefix.html	False
+dads-0820	parallel random-access machine	parallel random-access machine	https://xlinux.nist.gov/dads/HTML/parallelRandomAccessMachine.html	False
+dads-0821	parametric searching	parametric searching	https://xlinux.nist.gov/dads/HTML/parametrsrch.html	False
+dads-0822	parent	parent	https://xlinux.nist.gov/dads/HTML/parent.html	False
+dads-0823	partial function	partial function	https://xlinux.nist.gov/dads/HTML/partialfunct.html	False
+dads-0824	partially decidable problem	partially decidable problem	https://xlinux.nist.gov/dads/HTML/partiallyDecidableProb.html	False
+dads-0825	partially dynamic graph problem	partially dynamic graph problem	https://xlinux.nist.gov/dads/HTML/partiallyDynamicGraph.html	False
+dads-0826	partially ordered set	poset	https://xlinux.nist.gov/dads/HTML/poset.html	True
+dads-0827	partially persistent data structure	partially persistent data structure	https://xlinux.nist.gov/dads/HTML/partiallyPersistData.html	False
+dads-0828	partial order	partial order	https://xlinux.nist.gov/dads/HTML/partialorder.html	False
+dads-0829	partial recursive function	partial recursive function	https://xlinux.nist.gov/dads/HTML/partialrcrsv.html	False
+dads-0830	partition	partition	https://xlinux.nist.gov/dads/HTML/partition.html	False
+dads-0831	passive data structure	passive data structure	https://xlinux.nist.gov/dads/HTML/passiveDataStruc.html	False
+dads-0832	path	path	https://xlinux.nist.gov/dads/HTML/path.html	False
+dads-0833	path cover	path cover	https://xlinux.nist.gov/dads/HTML/pathcover.html	False
+dads-0834	path system problem	path system problem	https://xlinux.nist.gov/dads/HTML/pathsystem.html	False
+dads-0835	Patricia tree	Patricia tree	https://xlinux.nist.gov/dads/HTML/patriciatree.html	False
+dads-0836	pattern	pattern	https://xlinux.nist.gov/dads/HTML/pattern.html	False
+dads-0837	pattern element	pattern element	https://xlinux.nist.gov/dads/HTML/patternelmnt.html	False
+dads-0838	P-complete	P-complete	https://xlinux.nist.gov/dads/HTML/pcomplete.html	False
+dads-0839	PCP	Post's correspondence problem	https://xlinux.nist.gov/dads/HTML/postsCorrespondProb.html	True
+dads-0840	PDA	pushdown automaton	https://xlinux.nist.gov/dads/HTML/pushdownautm.html	True
+dads-0841	Pearson's hash	Pearson's hash	https://xlinux.nist.gov/dads/HTML/pearsonshash.html	False
+dads-0842	perfect binary tree	perfect binary tree	https://xlinux.nist.gov/dads/HTML/perfectBinaryTree.html	False
+dads-0843	perfect hashing	perfect hashing	https://xlinux.nist.gov/dads/HTML/perfecthash.html	False
+dads-0844	perfect k -ary tree	perfect k -ary tree	https://xlinux.nist.gov/dads/HTML/perfectKaryTree.html	False
+dads-0845	perfect matching	perfect matching	https://xlinux.nist.gov/dads/HTML/perfectmatch.html	False
+dads-0846	perfect shuffle	perfect shuffle	https://xlinux.nist.gov/dads/HTML/perfectShuffle.html	False
+dads-0847	performance guarantee	performance guarantee	https://xlinux.nist.gov/dads/HTML/performance.html	False
+dads-0848	performance ratio	relative performance guarantee	https://xlinux.nist.gov/dads/HTML/relativePerformGuar.html	True
+dads-0849	permutation	permutation	https://xlinux.nist.gov/dads/HTML/permutation.html	False
+dads-0850	permutation sort	permutation sort	https://xlinux.nist.gov/dads/HTML/permutationSort.html	False
+dads-0851	persistent data structure	persistent data structure	https://xlinux.nist.gov/dads/HTML/persistentDataStructure.html	False
+dads-0852	phonetic coding	phonetic coding	https://xlinux.nist.gov/dads/HTML/phoneticCoding.html	False
+dads-0853	pigeonhole sort	pigeonhole sort	https://xlinux.nist.gov/dads/HTML/pigeonholeSort.html	False
+dads-0854	pile	pile	https://xlinux.nist.gov/dads/HTML/pile.html	False
+dads-0855	pipelined divide and conquer	pipelined divide and conquer	https://xlinux.nist.gov/dads/HTML/pipelineddvd.html	False
+dads-0856	planar graph	planar graph	https://xlinux.nist.gov/dads/HTML/planargraph.html	False
+dads-0857	planarization	planarization	https://xlinux.nist.gov/dads/HTML/planarization.html	False
+dads-0858	planar straight-line graph	planar straight-line graph	https://xlinux.nist.gov/dads/HTML/planarstrght.html	False
+dads-0859	PLOP-hashing	PLOP-hashing	https://xlinux.nist.gov/dads/HTML/plophashing.html	False
+dads-0860	point access method	point access method	https://xlinux.nist.gov/dads/HTML/pointAccessMethod.html	False
+dads-0861	pointer jumping	pointer jumping	https://xlinux.nist.gov/dads/HTML/pointerJumping.html	False
+dads-0862	pointer machine	pointer machine	https://xlinux.nist.gov/dads/HTML/pointermachn.html	False
+dads-0863	poissonization	poissonization	https://xlinux.nist.gov/dads/HTML/poissonizatn.html	False
+dads-0864	polychotomy	polychotomy	https://xlinux.nist.gov/dads/HTML/polychotomy.html	False
+dads-0865	polyhedron	polyhedron	https://xlinux.nist.gov/dads/HTML/polyhedron.html	False
+dads-0866	polylogarithmic	polylogarithmic	https://xlinux.nist.gov/dads/HTML/polylogarith.html	False
+dads-0867	polynomial	polynomial	https://xlinux.nist.gov/dads/HTML/polynomial.html	False
+dads-0868	polynomial approximation scheme	polynomial approximation scheme	https://xlinux.nist.gov/dads/HTML/polynomaprox.html	False
+dads-0869	polynomial hierarchy	polynomial hierarchy	https://xlinux.nist.gov/dads/HTML/polynomhier.html	False
+dads-0870	polynomial time	polynomial time	https://xlinux.nist.gov/dads/HTML/polynomialtm.html	False
+dads-0871	polynomial-time reduction	polynomial-time reduction	https://xlinux.nist.gov/dads/HTML/polynomtredc.html	False
+dads-0872	polyphase merge	polyphase merge	https://xlinux.nist.gov/dads/HTML/polyphmerge.html	False
+dads-0873	polyphase merge sort	polyphase merge sort	https://xlinux.nist.gov/dads/HTML/polyphmrgsrt.html	False
+dads-0874	polytope	polytope	https://xlinux.nist.gov/dads/HTML/polytope.html	False
+dads-0875	poset	poset	https://xlinux.nist.gov/dads/HTML/poset.html	False
+dads-0876	postfix traversal	postorder traversal	https://xlinux.nist.gov/dads/HTML/postorderTraversal.html	True
+dads-0877	Post machine	Post machine	https://xlinux.nist.gov/dads/HTML/postMachine.html	False
+dads-0878	postman's sort	postman's sort	https://xlinux.nist.gov/dads/HTML/postmansort.html	False
+dads-0879	postorder traversal	postorder traversal	https://xlinux.nist.gov/dads/HTML/postorderTraversal.html	False
+dads-0880	Post's correspondence problem	Post's correspondence problem	https://xlinux.nist.gov/dads/HTML/postsCorrespondProb.html	False
+dads-0881	potential function	potential function	https://xlinux.nist.gov/dads/HTML/potentialfnc.html	False
+dads-0882	PRAM	parallel random-access machine	https://xlinux.nist.gov/dads/HTML/parallelRandomAccessMachine.html	True
+dads-0883	predicate	predicate	https://xlinux.nist.gov/dads/HTML/predicate.html	False
+dads-0884	prefix	prefix	https://xlinux.nist.gov/dads/HTML/prefix.html	False
+dads-0885	prefix code	prefix code	https://xlinux.nist.gov/dads/HTML/prefixcode.html	False
+dads-0886	prefix sums	scan	https://xlinux.nist.gov/dads/HTML/scan.html	True
+dads-0887	prefix traversal	preorder traversal	https://xlinux.nist.gov/dads/HTML/preorderTraversal.html	True
+dads-0888	preorder traversal	preorder traversal	https://xlinux.nist.gov/dads/HTML/preorderTraversal.html	False
+dads-0889	primary clustering	primary clustering	https://xlinux.nist.gov/dads/HTML/primaryClustering.html	False
+dads-0890	primitive algorithm	primitive algorithm	https://xlinux.nist.gov/dads/HTML/primitiveAlgorithm.html	False
+dads-0891	primitive recursive	primitive recursive	https://xlinux.nist.gov/dads/HTML/primitiveRecursive.html	False
+dads-0892	Prim-Jarnik algorithm	Prim-Jarnik algorithm	https://xlinux.nist.gov/dads/HTML/primJarnik.html	False
+dads-0893	principle of optimality	principle of optimality	https://xlinux.nist.gov/dads/HTML/principle.html	False
+dads-0894	priority queue	priority queue	https://xlinux.nist.gov/dads/HTML/priorityque.html	False
+dads-0895	prisoner's dilemma	prisoner's dilemma	https://xlinux.nist.gov/dads/HTML/prisonersDilemma.html	False
+dads-0896	PRNG	pseudo-random number generator	https://xlinux.nist.gov/dads/HTML/pseudorandomNumberGen.html	True
+dads-0897	probabilistic algorithm	probabilistic algorithm	https://xlinux.nist.gov/dads/HTML/probablAlgo.html	False
+dads-0898	probabilistically checkable proof	probabilistically checkable proof	https://xlinux.nist.gov/dads/HTML/probabilisticallyCheckableProof.html	False
+dads-0899	probabilistic Turing machine	probabilistic Turing machine	https://xlinux.nist.gov/dads/HTML/probablturng.html	False
+dads-0900	probe sequence	probe sequence	https://xlinux.nist.gov/dads/HTML/probesequenc.html	False
+dads-0901	procedure	procedure	https://xlinux.nist.gov/dads/HTML/procedure.html	False
+dads-0902	process algebra	process algebra	https://xlinux.nist.gov/dads/HTML/processalgbr.html	False
+dads-0903	proper	proper	https://xlinux.nist.gov/dads/HTML/proper.html	False
+dads-0904	proper binary tree	full binary tree	https://xlinux.nist.gov/dads/HTML/fullBinaryTree.html	True
+dads-0905	proper coloring	proper coloring	https://xlinux.nist.gov/dads/HTML/propercolor.html	False
+dads-0906	proper subset	proper subset	https://xlinux.nist.gov/dads/HTML/propersubset.html	False
+dads-0907	property list	dictionary	https://xlinux.nist.gov/dads/HTML/dictionary.html	True
+dads-0908	prune and search	prune and search	https://xlinux.nist.gov/dads/HTML/pruneNsearch.html	False
+dads-0909	pseudo-random number generator	pseudo-random number generator	https://xlinux.nist.gov/dads/HTML/pseudorandomNumberGen.html	False
+dads-0910	PTAS	polynomial approximation scheme	https://xlinux.nist.gov/dads/HTML/polynomaprox.html	True
+dads-0911	pth order Fibonacci numbers	kth order Fibonacci numbers	https://xlinux.nist.gov/dads/HTML/kthOrderFibonacci.html	True
+dads-0912	P-tree	P-tree	https://xlinux.nist.gov/dads/HTML/ptree.html	False
+dads-0913	purely functional language	purely functional language	https://xlinux.nist.gov/dads/HTML/purelyfnctnl.html	False
+dads-0914	pushdown automaton	pushdown automaton	https://xlinux.nist.gov/dads/HTML/pushdownautm.html	False
+dads-0915	pushdown transducer	pushdown transducer	https://xlinux.nist.gov/dads/HTML/pushdownTransducer.html	False
+dads-0916	p-way merge sort	k-way merge sort	https://xlinux.nist.gov/dads/HTML/kwayMergeSort.html	True
+dads-0917	qm sort	qm sort	https://xlinux.nist.gov/dads/HTML/qmsort.html	False
+dads-0918	q sort	q sort	https://xlinux.nist.gov/dads/HTML/qsort.html	False
+dads-0919	quadratic probing	quadratic probing	https://xlinux.nist.gov/dads/HTML/quadraticprb.html	False
+dads-0920	quadtree	quadtree	https://xlinux.nist.gov/dads/HTML/quadtree.html	False
+dads-0921	quadtree complexity theorem	quadtree complexity theorem	https://xlinux.nist.gov/dads/HTML/quadtreecplx.html	False
+dads-0922	quad trie	quad trie	https://xlinux.nist.gov/dads/HTML/quadtrie.html	False
+dads-0923	quantum computation	quantum computation	https://xlinux.nist.gov/dads/HTML/quantumComputation.html	False
+dads-0924	queue	queue	https://xlinux.nist.gov/dads/HTML/queue.html	False
+dads-0925	quick search	quick search	https://xlinux.nist.gov/dads/HTML/quicksearch.html	False
+dads-0926	quicksort	quicksort	https://xlinux.nist.gov/dads/HTML/quicksort.html	False
+dads-0927	Rabin-Karp	Karp-Rabin	https://xlinux.nist.gov/dads/HTML/karpRabin.html	True
+dads-0928	radix sort	radix sort	https://xlinux.nist.gov/dads/HTML/radixsort.html	False
+dads-0929	radix tree	Patricia tree	https://xlinux.nist.gov/dads/HTML/patriciatree.html	True
+dads-0930	ragged matrix	ragged matrix	https://xlinux.nist.gov/dads/HTML/raggedmatrix.html	False
+dads-0931	Raita	Raita	https://xlinux.nist.gov/dads/HTML/raita.html	False
+dads-0932	random access machine	random access machine	https://xlinux.nist.gov/dads/HTML/randomaccess.html	False
+dads-0933	randomization	randomization	https://xlinux.nist.gov/dads/HTML/randomizatn.html	False
+dads-0934	randomized algorithm	randomized algorithm	https://xlinux.nist.gov/dads/HTML/randomizedAlgo.html	False
+dads-0935	randomized binary search tree	randomized binary search tree	https://xlinux.nist.gov/dads/HTML/randomizedBinarySearchTree.html	False
+dads-0936	randomized complexity	randomized complexity	https://xlinux.nist.gov/dads/HTML/randomizedComplexity.html	False
+dads-0937	randomized polynomial time	RP	https://xlinux.nist.gov/dads/HTML/rp.html	True
+dads-0938	randomized rounding	randomized rounding	https://xlinux.nist.gov/dads/HTML/randomizdrnd.html	False
+dads-0939	randomized search tree	randomized search tree	https://xlinux.nist.gov/dads/HTML/randomizedSearchTree.html	False
+dads-0940	Randomized-Select	Randomized-Select	https://xlinux.nist.gov/dads/HTML/randomzdSlct.html	False
+dads-0941	random number generator	random number generator	https://xlinux.nist.gov/dads/HTML/randomnumgen.html	False
+dads-0942	random sampling	random sampling	https://xlinux.nist.gov/dads/HTML/randomsampl.html	False
+dads-0943	random search	random search	https://xlinux.nist.gov/dads/HTML/randomSearch.html	False
+dads-0944	range	range	https://xlinux.nist.gov/dads/HTML/range.html	False
+dads-0945	range sort	range sort	https://xlinux.nist.gov/dads/HTML/rangesort.html	False
+dads-0946	rank	rank	https://xlinux.nist.gov/dads/HTML/rank.html	False
+dads-0947	rapid sort	rapid sort	https://xlinux.nist.gov/dads/HTML/rapidSort.html	False
+dads-0948	Ratcliff/Obershelp pattern recognition	Ratcliff/Obershelp pattern recognition	https://xlinux.nist.gov/dads/HTML/ratcliffObershelp.html	False
+dads-0949	RBST	randomized binary search tree	https://xlinux.nist.gov/dads/HTML/randomizedBinarySearchTree.html	True
+dads-0950	reachability	reachable	https://xlinux.nist.gov/dads/HTML/reachable.html	True
+dads-0951	reachable	reachable	https://xlinux.nist.gov/dads/HTML/reachable.html	False
+dads-0952	rebalance	rebalance	https://xlinux.nist.gov/dads/HTML/rebalance.html	False
+dads-0953	recognizer	recognizer	https://xlinux.nist.gov/dads/HTML/recognizer.html	False
+dads-0954	rectangular matrix	rectangular matrix	https://xlinux.nist.gov/dads/HTML/rectangmatrx.html	False
+dads-0955	rectilinear	rectilinear	https://xlinux.nist.gov/dads/HTML/rectilinear.html	False
+dads-0956	rectilinear Steiner tree	rectilinear Steiner tree	https://xlinux.nist.gov/dads/HTML/rectilinearSteinertree.html	False
+dads-0957	recurrence equations	recurrence relation	https://xlinux.nist.gov/dads/HTML/recurrence.html	True
+dads-0958	recurrence relation	recurrence relation	https://xlinux.nist.gov/dads/HTML/recurrence.html	False
+dads-0959	recursion	recursion	https://xlinux.nist.gov/dads/HTML/recursion.html	False
+dads-0960	recursion termination	recursion termination	https://xlinux.nist.gov/dads/HTML/recursiontrm.html	False
+dads-0961	recursion tree	recursion tree	https://xlinux.nist.gov/dads/HTML/recursionTree.html	False
+dads-0962	recursive	recursive	https://xlinux.nist.gov/dads/HTML/recursive.html	False
+dads-0963	recursive data structure	recursive data structure	https://xlinux.nist.gov/dads/HTML/recursivstrc.html	False
+dads-0964	recursive doubling	pointer jumping	https://xlinux.nist.gov/dads/HTML/pointerJumping.html	True
+dads-0965	recursive language	decidable language	https://xlinux.nist.gov/dads/HTML/decidableLanguage.html	True
+dads-0966	recursively enumerable language	recursively enumerable language	https://xlinux.nist.gov/dads/HTML/recursivelyEnumerableLang.html	False
+dads-0967	recursively solvable	decidable problem	https://xlinux.nist.gov/dads/HTML/decidableProblem.html	True
+dads-0968	red-black tree	red-black tree	https://xlinux.nist.gov/dads/HTML/redblack.html	False
+dads-0969	reduced basis	reduced basis	https://xlinux.nist.gov/dads/HTML/reducedbasis.html	False
+dads-0970	reduced digraph	reduced digraph	https://xlinux.nist.gov/dads/HTML/reducedDigraph.html	False
+dads-0971	reduced ordered binary decision diagram	reduced ordered binary decision diagram	https://xlinux.nist.gov/dads/HTML/reducedOrderedBDD.html	False
+dads-0972	reduction	reduction	https://xlinux.nist.gov/dads/HTML/reduction.html	False
+dads-0973	reflexive	reflexive	https://xlinux.nist.gov/dads/HTML/reflexive.html	False
+dads-0974	regular decomposition	regular decomposition	https://xlinux.nist.gov/dads/HTML/regular.html	False
+dads-0975	rehashing	double hashing	https://xlinux.nist.gov/dads/HTML/doublehashng.html	True
+dads-0976	relation	relation	https://xlinux.nist.gov/dads/HTML/relation.html	False
+dads-0977	relational structure	relational structure	https://xlinux.nist.gov/dads/HTML/relational.html	False
+dads-0978	relative performance guarantee	relative performance guarantee	https://xlinux.nist.gov/dads/HTML/relativePerformGuar.html	False
+dads-0979	relaxation	relaxation	https://xlinux.nist.gov/dads/HTML/relaxation.html	False
+dads-0980	relaxed balance	relaxed balance	https://xlinux.nist.gov/dads/HTML/relaxedBalance.html	False
+dads-0981	repeated squaring	repeated squaring	https://xlinux.nist.gov/dads/HTML/repeatedSquaring.html	False
+dads-0982	rescalable	rescalable	https://xlinux.nist.gov/dads/HTML/rescalable.html	False
+dads-0983	reservoir sampling	reservoir sampling	https://xlinux.nist.gov/dads/HTML/reservoirSampling.html	False
+dads-0984	restricted universe sort	restricted universe sort	https://xlinux.nist.gov/dads/HTML/restricted.html	False
+dads-0985	Reverse Colussi	Reverse Colussi	https://xlinux.nist.gov/dads/HTML/reverseColus.html	False
+dads-0986	Reverse Factor	Reverse Factor	https://xlinux.nist.gov/dads/HTML/reversefactr.html	False
+dads-0987	R-file	R-file	https://xlinux.nist.gov/dads/HTML/rfile.html	False
+dads-0988	Rice's method	Rice's method	https://xlinux.nist.gov/dads/HTML/ricesmethod.html	False
+dads-0989	right rotation	right rotation	https://xlinux.nist.gov/dads/HTML/rightrotatn.html	False
+dads-0990	right-threaded tree	right-threaded tree	https://xlinux.nist.gov/dads/HTML/rightThreadedTree.html	False
+dads-0991	RNG	random number generator	https://xlinux.nist.gov/dads/HTML/randomnumgen.html	True
+dads-0992	ROBDD	reduced ordered binary decision diagram	https://xlinux.nist.gov/dads/HTML/reducedOrderedBDD.html	True
+dads-0993	Robin Hood hashing	Robin Hood hashing	https://xlinux.nist.gov/dads/HTML/robinHoodHashing.html	False
+dads-0994	root	root	https://xlinux.nist.gov/dads/HTML/root.html	False
+dads-0995	root balance	balance	https://xlinux.nist.gov/dads/HTML/balance.html	True
+dads-0996	rooted tree	rooted tree	https://xlinux.nist.gov/dads/HTML/rootedtree.html	False
+dads-0997	rotate left	left rotation	https://xlinux.nist.gov/dads/HTML/leftrotation.html	True
+dads-0998	rotate right	right rotation	https://xlinux.nist.gov/dads/HTML/rightrotatn.html	True
+dads-0999	rotation	rotation	https://xlinux.nist.gov/dads/HTML/rotation.html	False
+dads-1000	rough graph	rough graph	https://xlinux.nist.gov/dads/HTML/roughgraph.html	False
+dads-1001	RP	RP	https://xlinux.nist.gov/dads/HTML/rp.html	False
+dads-1002	R + -tree	R + -tree	https://xlinux.nist.gov/dads/HTML/rplustree.html	False
+dads-1003	R * -tree	R * -tree	https://xlinux.nist.gov/dads/HTML/rstartree.html	False
+dads-1004	R-tree	R-tree	https://xlinux.nist.gov/dads/HTML/rtree.html	False
+dads-1005	run time	run time	https://xlinux.nist.gov/dads/HTML/runtime.html	False
+dads-1006	saguaro stack	cactus stack	https://xlinux.nist.gov/dads/HTML/cactusstack.html	True
+dads-1007	SAM	spatial access method	https://xlinux.nist.gov/dads/HTML/spatialAccessMethod.html	True
+dads-1008	saturated edge	saturated edge	https://xlinux.nist.gov/dads/HTML/saturatedEdge.html	False
+dads-1009	SBB tree	SBB tree	https://xlinux.nist.gov/dads/HTML/sbbtree.html	False
+dads-1010	scan	scan	https://xlinux.nist.gov/dads/HTML/scan.html	False
+dads-1011	scapegoat tree	scapegoat tree	https://xlinux.nist.gov/dads/HTML/scapegoatTree.html	False
+dads-1012	scatter storage	hash table	https://xlinux.nist.gov/dads/HTML/hashtab.html	True
+dads-1013	Schorr-Waite graph marking algorithm	Schorr-Waite graph marking algorithm	https://xlinux.nist.gov/dads/HTML/SchorrWaiteGraphMarking.html	False
+dads-1014	search	search	https://xlinux.nist.gov/dads/HTML/search.html	False
+dads-1015	search tree	search tree	https://xlinux.nist.gov/dads/HTML/searchtree.html	False
+dads-1016	search tree property	search tree property	https://xlinux.nist.gov/dads/HTML/searchtrprop.html	False
+dads-1017	secant search	secant search	https://xlinux.nist.gov/dads/HTML/secantSearch.html	False
+dads-1018	secondary clustering	secondary clustering	https://xlinux.nist.gov/dads/HTML/secondaryClustering.html	False
+dads-1019	segment	segment	https://xlinux.nist.gov/dads/HTML/segment.html	False
+dads-1020	Select	Select	https://xlinux.nist.gov/dads/HTML/select.html	False
+dads-1021	select and partition	select and partition	https://xlinux.nist.gov/dads/HTML/selectAndPartition.html	False
+dads-1022	selection problem	select k th element	https://xlinux.nist.gov/dads/HTML/selectkth.html	True
+dads-1023	selection sort	selection sort	https://xlinux.nist.gov/dads/HTML/selectionSort.html	False
+dads-1024	select k th element	select k th element	https://xlinux.nist.gov/dads/HTML/selectkth.html	False
+dads-1025	select mode	select mode	https://xlinux.nist.gov/dads/HTML/selectmode.html	False
+dads-1026	self-loop	self-loop	https://xlinux.nist.gov/dads/HTML/selfloop.html	False
+dads-1027	self-organizing list	self-organizing list	https://xlinux.nist.gov/dads/HTML/selfOrganizingList.html	False
+dads-1028	self-organizing sequential search	transpose sequential search	https://xlinux.nist.gov/dads/HTML/transposeSeqSearch.html	True
+dads-1029	semidefinite programming	semidefinite programming	https://xlinux.nist.gov/dads/HTML/semidefinite.html	False
+dads-1030	separate chaining	separate chaining	https://xlinux.nist.gov/dads/HTML/separateChaining.html	False
+dads-1031	separation theorem	separation theorem	https://xlinux.nist.gov/dads/HTML/separatnthrm.html	False
+dads-1032	sequential search	linear search	https://xlinux.nist.gov/dads/HTML/linearSearch.html	True
+dads-1033	set	set	https://xlinux.nist.gov/dads/HTML/set.html	False
+dads-1034	set cover	set cover	https://xlinux.nist.gov/dads/HTML/setcover.html	False
+dads-1035	set packing	set packing	https://xlinux.nist.gov/dads/HTML/setpacking.html	False
+dads-1036	shadow heap	shadow heap	https://xlinux.nist.gov/dads/HTML/shadowheap.html	False
+dads-1037	shadow merge	shadow merge	https://xlinux.nist.gov/dads/HTML/shadowmerge.html	False
+dads-1038	shadow merge insert	shadow merge insert	https://xlinux.nist.gov/dads/HTML/shadowmrgins.html	False
+dads-1039	shaker sort	bidirectional bubble sort	https://xlinux.nist.gov/dads/HTML/bidirectionalBubbleSort.html	True
+dads-1040	Shannon-Fano coding	Shannon-Fano coding	https://xlinux.nist.gov/dads/HTML/shannonFano.html	False
+dads-1041	shared memory	shared memory	https://xlinux.nist.gov/dads/HTML/sharedmemory.html	False
+dads-1042	Shell sort	Shell sort	https://xlinux.nist.gov/dads/HTML/shellsort.html	False
+dads-1043	Shift-Or	Shift-Or	https://xlinux.nist.gov/dads/HTML/shiftOr.html	False
+dads-1044	Shor's algorithm	Shor's algorithm	https://xlinux.nist.gov/dads/HTML/shorsAlgo.html	False
+dads-1045	shortcutting	pointer jumping	https://xlinux.nist.gov/dads/HTML/pointerJumping.html	True
+dads-1046	shortest common supersequence	shortest common supersequence	https://xlinux.nist.gov/dads/HTML/shortestCommonSuperseq.html	False
+dads-1047	shortest common superstring	shortest common superstring	https://xlinux.nist.gov/dads/HTML/shortestCommonSuperstring.html	False
+dads-1048	shortest path	shortest path	https://xlinux.nist.gov/dads/HTML/shortestpath.html	False
+dads-1049	shortest spanning tree	minimum spanning tree	https://xlinux.nist.gov/dads/HTML/minimumSpanningTree.html	True
+dads-1050	shuffle	permutation	https://xlinux.nist.gov/dads/HTML/permutation.html	True
+dads-1051	shuffle sort	shuffle sort	https://xlinux.nist.gov/dads/HTML/shuffleSort.html	False
+dads-1052	sibling	sibling	https://xlinux.nist.gov/dads/HTML/sibling.html	False
+dads-1053	sieve of Eratosthenes	sieve of Eratosthenes	https://xlinux.nist.gov/dads/HTML/sieve.html	False
+dads-1054	sift up	sift up	https://xlinux.nist.gov/dads/HTML/siftup.html	False
+dads-1055	signature	signature	https://xlinux.nist.gov/dads/HTML/signature.html	False
+dads-1056	Simon's algorithm	Simon's algorithm	https://xlinux.nist.gov/dads/HTML/simonsAlgo.html	False
+dads-1057	simple merge	simple merge	https://xlinux.nist.gov/dads/HTML/simplemerge.html	False
+dads-1058	simple path	simple path	https://xlinux.nist.gov/dads/HTML/simplepath.html	False
+dads-1059	simple uniform hashing	simple uniform hashing	https://xlinux.nist.gov/dads/HTML/simpleUniformHashing.html	False
+dads-1060	simplex	simplex	https://xlinux.nist.gov/dads/HTML/simplex.html	False
+dads-1061	simulated annealing	simulated annealing	https://xlinux.nist.gov/dads/HTML/simulatedAnnealing.html	False
+dads-1062	simulation theorem	simulation theorem	https://xlinux.nist.gov/dads/HTML/simulatnthrm.html	False
+dads-1063	single-destination shortest-path problem	single-destination shortest-path problem	https://xlinux.nist.gov/dads/HTML/singleDestShortestPath.html	False
+dads-1064	single-pair shortest-path problem	shortest path	https://xlinux.nist.gov/dads/HTML/shortestpath.html	True
+dads-1065	single program multiple data	single program multiple data	https://xlinux.nist.gov/dads/HTML/singleprogrm.html	False
+dads-1066	single-source shortest-path problem	single-source shortest-path problem	https://xlinux.nist.gov/dads/HTML/singleSourceShortestPath.html	False
+dads-1067	singly linked list	linked list	https://xlinux.nist.gov/dads/HTML/linkedList.html	True
+dads-1068	singularity analysis	singularity analysis	https://xlinux.nist.gov/dads/HTML/singularity.html	False
+dads-1069	sink	sink	https://xlinux.nist.gov/dads/HTML/sink.html	False
+dads-1070	sinking sort	bubble sort	https://xlinux.nist.gov/dads/HTML/bubblesort.html	True
+dads-1071	skd-tree	skd-tree	https://xlinux.nist.gov/dads/HTML/skdtree.html	False
+dads-1072	skew symmetry	skew symmetry	https://xlinux.nist.gov/dads/HTML/skewsymmetry.html	False
+dads-1073	skip list	skip list	https://xlinux.nist.gov/dads/HTML/skiplist.html	False
+dads-1074	skip search	skip search	https://xlinux.nist.gov/dads/HTML/skipSearch.html	False
+dads-1075	slope selection	slope selection	https://xlinux.nist.gov/dads/HTML/slopeselectn.html	False
+dads-1076	Smith algorithm	Smith algorithm	https://xlinux.nist.gov/dads/HTML/smithAlgorithm.html	False
+dads-1077	Smith-Waterman algorithm	Smith-Waterman algorithm	https://xlinux.nist.gov/dads/HTML/smithWaterman.html	False
+dads-1078	smoothsort	smoothsort	https://xlinux.nist.gov/dads/HTML/smoothsort.html	False
+dads-1079	solvable	solvable	https://xlinux.nist.gov/dads/HTML/solvable.html	False
+dads-1080	sort	sort	https://xlinux.nist.gov/dads/HTML/sort.html	False
+dads-1081	sorted array	sorted array	https://xlinux.nist.gov/dads/HTML/sortedarray.html	False
+dads-1082	sorted list	sorted list	https://xlinux.nist.gov/dads/HTML/sortedlist.html	False
+dads-1083	sorted-string table	SSTable	https://xlinux.nist.gov/dads/HTML/SSTable.html	True
+dads-1084	sort in place	in-place sort	https://xlinux.nist.gov/dads/HTML/inplacesort.html	True
+dads-1085	soundex	soundex	https://xlinux.nist.gov/dads/HTML/soundex.html	False
+dads-1086	source	source	https://xlinux.nist.gov/dads/HTML/source.html	False
+dads-1087	space-constructible function	space-constructible function	https://xlinux.nist.gov/dads/HTML/space.html	False
+dads-1088	space ordering method	space ordering method	https://xlinux.nist.gov/dads/HTML/spaceOrderingMethod.html	False
+dads-1089	spanning tree	spanning tree	https://xlinux.nist.gov/dads/HTML/spanningtree.html	False
+dads-1090	sparse graph	sparse graph	https://xlinux.nist.gov/dads/HTML/sparsegraph.html	False
+dads-1091	sparse matrix	sparse matrix	https://xlinux.nist.gov/dads/HTML/sparsematrix.html	False
+dads-1092	sparsification	sparsification	https://xlinux.nist.gov/dads/HTML/sparsificatn.html	False
+dads-1093	sparsity	sparsity	https://xlinux.nist.gov/dads/HTML/sparsity.html	False
+dads-1094	spatial access method	spatial access method	https://xlinux.nist.gov/dads/HTML/spatialAccessMethod.html	False
+dads-1095	spiral storage	spiral storage	https://xlinux.nist.gov/dads/HTML/spiralStorage.html	False
+dads-1096	splay tree	splay tree	https://xlinux.nist.gov/dads/HTML/splaytree.html	False
+dads-1097	SPMD	single program multiple data	https://xlinux.nist.gov/dads/HTML/singleprogrm.html	True
+dads-1098	square matrix	square matrix	https://xlinux.nist.gov/dads/HTML/squarematrix.html	False
+dads-1099	square root	square root	https://xlinux.nist.gov/dads/HTML/squareRoot.html	False
+dads-1100	SST	minimum spanning tree	https://xlinux.nist.gov/dads/HTML/minimumSpanningTree.html	True
+dads-1101	SSTable	SSTable	https://xlinux.nist.gov/dads/HTML/SSTable.html	False
+dads-1102	stable	stable	https://xlinux.nist.gov/dads/HTML/stable.html	False
+dads-1103	stack	stack	https://xlinux.nist.gov/dads/HTML/stack.html	False
+dads-1104	stack tree	stack tree	https://xlinux.nist.gov/dads/HTML/stacktree.html	False
+dads-1105	star encoding	star encoding	https://xlinux.nist.gov/dads/HTML/starEncoding.html	False
+dads-1106	star-shaped polygon	star-shaped polygon	https://xlinux.nist.gov/dads/HTML/starshaped.html	False
+dads-1107	start state	start state	https://xlinux.nist.gov/dads/HTML/startstate.html	False
+dads-1108	state	state	https://xlinux.nist.gov/dads/HTML/state.html	False
+dads-1109	state machine	state machine	https://xlinux.nist.gov/dads/HTML/statemachine.html	False
+dads-1110	state transition	transition	https://xlinux.nist.gov/dads/HTML/transition.html	True
+dads-1111	static	static	https://xlinux.nist.gov/dads/HTML/static.html	False
+dads-1112	static Huffman coding	Huffman coding	https://xlinux.nist.gov/dads/HTML/huffmanCoding.html	True
+dads-1113	s-t cut	s-t cut	https://xlinux.nist.gov/dads/HTML/stcut.html	False
+dads-1114	st-digraph	st-digraph	https://xlinux.nist.gov/dads/HTML/stdigraph.html	False
+dads-1115	Steiner point	Steiner point	https://xlinux.nist.gov/dads/HTML/steinerpoint.html	False
+dads-1116	Steiner ratio	Steiner ratio	https://xlinux.nist.gov/dads/HTML/steinerratio.html	False
+dads-1117	Steiner tree	Steiner tree	https://xlinux.nist.gov/dads/HTML/steinertree.html	False
+dads-1118	Steiner vertex	Steiner vertex	https://xlinux.nist.gov/dads/HTML/steinervertx.html	False
+dads-1119	Steinhaus-Johnson-Trotter	Johnson-Trotter	https://xlinux.nist.gov/dads/HTML/johnsonTrotter.html	True
+dads-1120	Stirling's approximation	Stirling's approximation	https://xlinux.nist.gov/dads/HTML/stirlingsApproximation.html	False
+dads-1121	Stirling's formula	Stirling's formula	https://xlinux.nist.gov/dads/HTML/stirlingsFormula.html	False
+dads-1122	stooge sort	stooge sort	https://xlinux.nist.gov/dads/HTML/stoogesort.html	False
+dads-1123	straight-line drawing	straight-line drawing	https://xlinux.nist.gov/dads/HTML/straightline.html	False
+dads-1124	strand sort	strand sort	https://xlinux.nist.gov/dads/HTML/strandSort.html	False
+dads-1125	strictly decreasing	strictly decreasing	https://xlinux.nist.gov/dads/HTML/strictlyDecreasing.html	False
+dads-1126	strictly increasing	strictly increasing	https://xlinux.nist.gov/dads/HTML/strictlyIncreasing.html	False
+dads-1127	strictly lower triangular matrix	strictly lower triangular matrix	https://xlinux.nist.gov/dads/HTML/strictlyLowerTriangMat.html	False
+dads-1128	strictly upper triangular matrix	strictly upper triangular matrix	https://xlinux.nist.gov/dads/HTML/strictlyUpperTriangMat.html	False
+dads-1129	string	string	https://xlinux.nist.gov/dads/HTML/string.html	False
+dads-1130	string editing problem	string editing problem	https://xlinux.nist.gov/dads/HTML/stringedit.html	False
+dads-1131	string matching	string matching	https://xlinux.nist.gov/dads/HTML/stringMatching.html	False
+dads-1132	string matching on ordered alphabets	string matching on ordered alphabets	https://xlinux.nist.gov/dads/HTML/stringMatchOrdAlphabet.html	False
+dads-1133	string matching with errors	string matching with errors	https://xlinux.nist.gov/dads/HTML/stringMatchwError.html	False
+dads-1134	string matching with mismatches	string matching with mismatches	https://xlinux.nist.gov/dads/HTML/stringMatchwMismatch.html	False
+dads-1135	string searching	string matching	https://xlinux.nist.gov/dads/HTML/stringMatching.html	True
+dads-1136	strip packing	strip packing	https://xlinux.nist.gov/dads/HTML/strippacking.html	False
+dads-1137	strongly connected component	strongly connected component	https://xlinux.nist.gov/dads/HTML/stronglyConnectedCompo.html	False
+dads-1138	strongly connected graph	strongly connected graph	https://xlinux.nist.gov/dads/HTML/stronglyConnectedGraph.html	False
+dads-1139	strongly NP-hard	strongly NP-hard	https://xlinux.nist.gov/dads/HTML/stronglyNP.html	False
+dads-1140	strsrch	strsrch	https://xlinux.nist.gov/dads/HTML/strsrch.html	False
+dads-1141	stupid sort	stupid sort	https://xlinux.nist.gov/dads/HTML/stupidSort.html	False
+dads-1142	subadditive ergodic theorem	subadditive ergodic theorem	https://xlinux.nist.gov/dads/HTML/subadditive.html	False
+dads-1143	subgraph	subgraph	https://xlinux.nist.gov/dads/HTML/subgraph.html	False
+dads-1144	subgraph isomorphism	subgraph isomorphism	https://xlinux.nist.gov/dads/HTML/subgraphiso.html	False
+dads-1145	sublinear time algorithm	sublinear time algorithm	https://xlinux.nist.gov/dads/HTML/sublinearTimeAlgo.html	False
+dads-1146	subsequence	subsequence	https://xlinux.nist.gov/dads/HTML/subsequence.html	False
+dads-1147	subset	subset	https://xlinux.nist.gov/dads/HTML/subset.html	False
+dads-1148	substring	substring	https://xlinux.nist.gov/dads/HTML/substring.html	False
+dads-1149	subtree	subtree	https://xlinux.nist.gov/dads/HTML/subtree.html	False
+dads-1150	suffix	suffix	https://xlinux.nist.gov/dads/HTML/suffix.html	False
+dads-1151	suffix array	suffix array	https://xlinux.nist.gov/dads/HTML/suffixarray.html	False
+dads-1152	suffix automaton	suffix automaton	https://xlinux.nist.gov/dads/HTML/suffixautmtn.html	False
+dads-1153	suffix tree	suffix tree	https://xlinux.nist.gov/dads/HTML/suffixtree.html	False
+dads-1154	superimposed code	superimposed code	https://xlinux.nist.gov/dads/HTML/superimposedCode.html	False
+dads-1155	superset	superset	https://xlinux.nist.gov/dads/HTML/superset.html	False
+dads-1156	supersink	supersink	https://xlinux.nist.gov/dads/HTML/supersink.html	False
+dads-1157	supersource	supersource	https://xlinux.nist.gov/dads/HTML/supersource.html	False
+dads-1158	symmetric	symmetric	https://xlinux.nist.gov/dads/HTML/symmetric.html	False
+dads-1159	symmetrically linked list	doubly linked list	https://xlinux.nist.gov/dads/HTML/doublyLinkedList.html	True
+dads-1160	symmetric binary B-tree	red-black tree	https://xlinux.nist.gov/dads/HTML/redblack.html	True
+dads-1161	symmetric set difference	symmetric set difference	https://xlinux.nist.gov/dads/HTML/symmetricSetDiff.html	False
+dads-1162	symmetric traversal	in-order traversal	https://xlinux.nist.gov/dads/HTML/inorderTraversal.html	True
+dads-1163	symmetry breaking	symmetry breaking	https://xlinux.nist.gov/dads/HTML/symmetrybrek.html	False
+dads-1164	tabulation hashing	tabulation hashing	https://xlinux.nist.gov/dads/HTML/tabulationHashing.html	False
+dads-1165	taco sort	taco sort	https://xlinux.nist.gov/dads/HTML/tacoSort.html	False
+dads-1166	tail	tail	https://xlinux.nist.gov/dads/HTML/tail.html	False
+dads-1167	tail recursion	tail recursion	https://xlinux.nist.gov/dads/HTML/tailRecursion.html	False
+dads-1168	target	target	https://xlinux.nist.gov/dads/HTML/target.html	False
+dads-1169	temporal logic	temporal logic	https://xlinux.nist.gov/dads/HTML/temporllogic.html	False
+dads-1170	terminal	terminal	https://xlinux.nist.gov/dads/HTML/terminal.html	False
+dads-1171	terminal node	leaf	https://xlinux.nist.gov/dads/HTML/leaf.html	True
+dads-1172	ternary search tree	ternary search tree	https://xlinux.nist.gov/dads/HTML/ternarySearchTree.html	False
+dads-1173	text	text	https://xlinux.nist.gov/dads/HTML/text.html	False
+dads-1174	text searching	string matching	https://xlinux.nist.gov/dads/HTML/stringMatching.html	True
+dads-1175	theta	Θ	https://xlinux.nist.gov/dads/HTML/theta.html	True
+dads-1176	threaded binary tree	threaded binary tree	https://xlinux.nist.gov/dads/HTML/threadedBinaryTree.html	False
+dads-1177	threaded tree	threaded tree	https://xlinux.nist.gov/dads/HTML/threadedtree.html	False
+dads-1178	three-dimensional	three-dimensional	https://xlinux.nist.gov/dads/HTML/threedimnsnl.html	False
+dads-1179	three-way merge sort	three-way merge sort	https://xlinux.nist.gov/dads/HTML/threewaymsrt.html	False
+dads-1180	three-way radix quicksort	multikey Quicksort	https://xlinux.nist.gov/dads/HTML/multikeyQuicksort.html	True
+dads-1181	time-constructible function	time-constructible function	https://xlinux.nist.gov/dads/HTML/time.html	False
+dads-1182	time/space complexity	time/space complexity	https://xlinux.nist.gov/dads/HTML/timespace.html	False
+dads-1183	top-down radix sort	top-down radix sort	https://xlinux.nist.gov/dads/HTML/topdownRadixSort.html	False
+dads-1184	top-down tree automaton	top-down tree automaton	https://xlinux.nist.gov/dads/HTML/topdownTreeAutom.html	False
+dads-1185	topological order	topological order	https://xlinux.nist.gov/dads/HTML/topologicalOrder.html	False
+dads-1186	topological sort	topological sort	https://xlinux.nist.gov/dads/HTML/topologicalSort.html	False
+dads-1187	topology tree	topology tree	https://xlinux.nist.gov/dads/HTML/topologytree.html	False
+dads-1188	total function	total function	https://xlinux.nist.gov/dads/HTML/totalfunc.html	False
+dads-1189	totally decidable language	decidable language	https://xlinux.nist.gov/dads/HTML/decidableLanguage.html	True
+dads-1190	totally decidable problem	decidable problem	https://xlinux.nist.gov/dads/HTML/decidableProblem.html	True
+dads-1191	totally undecidable problem	totally undecidable problem	https://xlinux.nist.gov/dads/HTML/totallyUndecidableProb.html	False
+dads-1192	total order	total order	https://xlinux.nist.gov/dads/HTML/totalorder.html	False
+dads-1193	tour	Hamiltonian cycle	https://xlinux.nist.gov/dads/HTML/hamiltonianCycle.html	True
+dads-1194	tournament	tournament	https://xlinux.nist.gov/dads/HTML/tournament.html	False
+dads-1195	tournament sort	tournament sort	https://xlinux.nist.gov/dads/HTML/tournamentSort.html	False
+dads-1196	towers of Hanoi	towers of Hanoi	https://xlinux.nist.gov/dads/HTML/towersOfHanoi.html	False
+dads-1197	tractable	tractable	https://xlinux.nist.gov/dads/HTML/tractable.html	False
+dads-1198	transition	transition	https://xlinux.nist.gov/dads/HTML/transition.html	False
+dads-1199	transition function	transition function	https://xlinux.nist.gov/dads/HTML/transitionfn.html	False
+dads-1200	transitive	transitive	https://xlinux.nist.gov/dads/HTML/transitive.html	False
+dads-1201	transitive closure	transitive closure	https://xlinux.nist.gov/dads/HTML/transitiveClosure.html	False
+dads-1202	transitive reduction	transitive reduction	https://xlinux.nist.gov/dads/HTML/transitiveReduction.html	False
+dads-1203	transpose sequential search	transpose sequential search	https://xlinux.nist.gov/dads/HTML/transposeSeqSearch.html	False
+dads-1204	traveling salesman	traveling salesman	https://xlinux.nist.gov/dads/HTML/travelingSalesman.html	False
+dads-1205	treap	treap	https://xlinux.nist.gov/dads/HTML/treap.html	False
+dads-1206	tree	tree	https://xlinux.nist.gov/dads/HTML/tree.html	False
+dads-1207	tree automaton	tree automaton	https://xlinux.nist.gov/dads/HTML/treeAutomaton.html	False
+dads-1208	tree contraction	tree contraction	https://xlinux.nist.gov/dads/HTML/treecontrctn.html	False
+dads-1209	tree editing problem	tree editing problem	https://xlinux.nist.gov/dads/HTML/treeedit.html	False
+dads-1210	treesort (1)	treesort (1)	https://xlinux.nist.gov/dads/HTML/treesort1.html	False
+dads-1211	treesort (2)	treesort (2)	https://xlinux.nist.gov/dads/HTML/treesort2.html	False
+dads-1212	tree traversal	tree traversal	https://xlinux.nist.gov/dads/HTML/treeTraversal.html	False
+dads-1213	triangle inequality	triangle inequality	https://xlinux.nist.gov/dads/HTML/trianglnqlty.html	False
+dads-1214	triconnected graph	triconnected graph	https://xlinux.nist.gov/dads/HTML/triconnectedGraph.html	False
+dads-1215	trie	trie	https://xlinux.nist.gov/dads/HTML/trie.html	False
+dads-1216	trinary function	trinary function	https://xlinux.nist.gov/dads/HTML/trinaryfunc.html	False
+dads-1217	tripartition	tripartition	https://xlinux.nist.gov/dads/HTML/tripartition.html	False
+dads-1218	Trotter-Johnson	Johnson-Trotter	https://xlinux.nist.gov/dads/HTML/johnsonTrotter.html	True
+dads-1219	TSP	traveling salesman	https://xlinux.nist.gov/dads/HTML/travelingSalesman.html	True
+dads-1220	TST	ternary search tree	https://xlinux.nist.gov/dads/HTML/ternarySearchTree.html	True
+dads-1221	Turbo-BM	Turbo-BM	https://xlinux.nist.gov/dads/HTML/turboBM.html	False
+dads-1222	Turbo Reverse Factor	Turbo Reverse Factor	https://xlinux.nist.gov/dads/HTML/turboRevFact.html	False
+dads-1223	Turing machine	Turing machine	https://xlinux.nist.gov/dads/HTML/turingMachine.html	False
+dads-1224	Turing reduction	Turing reduction	https://xlinux.nist.gov/dads/HTML/turingredctn.html	False
+dads-1225	Turing transducer	Turing transducer	https://xlinux.nist.gov/dads/HTML/turingTransducer.html	False
+dads-1226	twin grid file	twin grid file	https://xlinux.nist.gov/dads/HTML/twingridfl.html	False
+dads-1227	twisted tabulation hashing	twisted tabulation hashing	https://xlinux.nist.gov/dads/HTML/twistedTabulationHashing.html	False
+dads-1228	2-choice hashing	2-choice hashing	https://xlinux.nist.gov/dads/HTML/twoChoiceHashing.html	False
+dads-1229	two-dimensional	two-dimensional	https://xlinux.nist.gov/dads/HTML/twodimensnal.html	False
+dads-1230	2-left hashing	2-left hashing	https://xlinux.nist.gov/dads/HTML/twoLeftHashing.html	False
+dads-1231	two-level grid file	two-level grid file	https://xlinux.nist.gov/dads/HTML/twolevgrid.html	False
+dads-1232	2-3-4 tree	2-3-4 tree	https://xlinux.nist.gov/dads/HTML/two34tree.html	False
+dads-1233	2-3 tree	2-3 tree	https://xlinux.nist.gov/dads/HTML/two3tree.html	False
+dads-1234	Two Way algorithm	Two Way algorithm	https://xlinux.nist.gov/dads/HTML/twoWay.html	False
+dads-1235	two-way linked list	doubly linked list	https://xlinux.nist.gov/dads/HTML/doublyLinkedList.html	True
+dads-1236	two-way merge sort	two-way merge sort	https://xlinux.nist.gov/dads/HTML/twowaymrgsrt.html	False
+dads-1237	UB-tree	UB-tree	https://xlinux.nist.gov/dads/HTML/ubtree.html	False
+dads-1238	UKP	unbounded knapsack problem	https://xlinux.nist.gov/dads/HTML/unboundedKnapsack.html	True
+dads-1239	unary function	unary function	https://xlinux.nist.gov/dads/HTML/unaryfunc.html	False
+dads-1240	unbiased coin flipping algorithm	unbiased coin flipping algorithm	https://xlinux.nist.gov/dads/HTML/unbiasedCoinFlipAlgo.html	False
+dads-1241	unbounded knapsack problem	unbounded knapsack problem	https://xlinux.nist.gov/dads/HTML/unboundedKnapsack.html	False
+dads-1242	uncomputable function	uncomputable function	https://xlinux.nist.gov/dads/HTML/uncomputableFunction.html	False
+dads-1243	uncomputable problem	uncomputable problem	https://xlinux.nist.gov/dads/HTML/uncomputableProblem.html	False
+dads-1244	undecidable language	undecidable language	https://xlinux.nist.gov/dads/HTML/undecidableLanguage.html	False
+dads-1245	undecidable problem	undecidable problem	https://xlinux.nist.gov/dads/HTML/undecidableProblem.html	False
+dads-1246	undirected graph	undirected graph	https://xlinux.nist.gov/dads/HTML/undirectedGraph.html	False
+dads-1247	uniform circuit complexity	uniform circuit complexity	https://xlinux.nist.gov/dads/HTML/uniformCircuitComplexity.html	False
+dads-1248	uniform circuit family	uniform circuit family	https://xlinux.nist.gov/dads/HTML/uniformCircuitFamily.html	False
+dads-1249	uniform hashing	uniform hashing	https://xlinux.nist.gov/dads/HTML/uniformhashn.html	False
+dads-1250	uniform matrix	uniform matrix	https://xlinux.nist.gov/dads/HTML/uniformmatrx.html	False
+dads-1251	union	union	https://xlinux.nist.gov/dads/HTML/union.html	False
+dads-1252	union of automata	union of automata	https://xlinux.nist.gov/dads/HTML/unionautoma.html	False
+dads-1253	universal B-tree	universal B-tree	https://xlinux.nist.gov/dads/HTML/universalBTree.html	False
+dads-1254	universal hashing	universal hashing	https://xlinux.nist.gov/dads/HTML/universalhsh.html	False
+dads-1255	universal state	universal state	https://xlinux.nist.gov/dads/HTML/universalstt.html	False
+dads-1256	universal Turing machine	universal Turing machine	https://xlinux.nist.gov/dads/HTML/universalTur.html	False
+dads-1257	universe	universe	https://xlinux.nist.gov/dads/HTML/universe.html	False
+dads-1258	unlimited branching tree	unlimited branching tree	https://xlinux.nist.gov/dads/HTML/unlimitedBranchingTree.html	False
+dads-1259	unranking	unranking	https://xlinux.nist.gov/dads/HTML/unrank.html	False
+dads-1260	UnShuffle sort	UnShuffle sort	https://xlinux.nist.gov/dads/HTML/unshufflsort.html	False
+dads-1261	unsolvable problem	unsolvable problem	https://xlinux.nist.gov/dads/HTML/unsolvableProblem.html	False
+dads-1262	unsorted list	unsorted list	https://xlinux.nist.gov/dads/HTML/unsortedList.html	False
+dads-1263	upper triangular matrix	upper triangular matrix	https://xlinux.nist.gov/dads/HTML/upperTriangularMatrix.html	False
+dads-1264	van Emde-Boas priority queue	van Emde-Boas priority queue	https://xlinux.nist.gov/dads/HTML/vanemdeboas.html	False
+dads-1265	vehicle routing problem	vehicle routing problem	https://xlinux.nist.gov/dads/HTML/vehicleRouting.html	False
+dads-1266	Veitch diagram	Karnaugh map	https://xlinux.nist.gov/dads/HTML/karnaughmap.html	True
+dads-1267	Venn diagram	Venn diagram	https://xlinux.nist.gov/dads/HTML/venndiagram.html	False
+dads-1268	vertex	vertex	https://xlinux.nist.gov/dads/HTML/vertex.html	False
+dads-1269	vertex coloring	vertex coloring	https://xlinux.nist.gov/dads/HTML/vertexcolor.html	False
+dads-1270	vertex connectivity	vertex connectivity	https://xlinux.nist.gov/dads/HTML/vertexConnectivity.html	False
+dads-1271	vertex cover	vertex cover	https://xlinux.nist.gov/dads/HTML/vertexcover.html	False
+dads-1272	vertical visibility map	vertical visibility map	https://xlinux.nist.gov/dads/HTML/vertical.html	False
+dads-1273	virtual hashing	virtual hashing	https://xlinux.nist.gov/dads/HTML/virtualHashing.html	False
+dads-1274	visibility map	visibility map	https://xlinux.nist.gov/dads/HTML/visibilityMap.html	False
+dads-1275	visible	visible	https://xlinux.nist.gov/dads/HTML/visible.html	False
+dads-1276	Viterbi algorithm	Viterbi algorithm	https://xlinux.nist.gov/dads/HTML/viterbiAlgorithm.html	False
+dads-1277	Vitter's algorithm	Vitter's algorithm	https://xlinux.nist.gov/dads/HTML/vittersAlgorithm.html	False
+dads-1278	VRP	vehicle routing problem	https://xlinux.nist.gov/dads/HTML/vehicleRouting.html	True
+dads-1279	walk	walk	https://xlinux.nist.gov/dads/HTML/walk.html	False
+dads-1280	WCET	worst-case execution time	https://xlinux.nist.gov/dads/HTML/worstCaseExecutionTime.html	True
+dads-1281	weak-heap	weak-heap	https://xlinux.nist.gov/dads/HTML/weakheap.html	False
+dads-1282	weak-heap sort	weak-heap sort	https://xlinux.nist.gov/dads/HTML/weakheapsort.html	False
+dads-1283	weight-balanced tree	BB(α) tree	https://xlinux.nist.gov/dads/HTML/bbalphatree.html	True
+dads-1284	weighted, directed graph	weighted, directed graph	https://xlinux.nist.gov/dads/HTML/weightedDigraph.html	False
+dads-1285	weighted graph	weighted graph	https://xlinux.nist.gov/dads/HTML/weightedGraph.html	False
+dads-1286	window	window	https://xlinux.nist.gov/dads/HTML/window.html	False
+dads-1287	witness	witness	https://xlinux.nist.gov/dads/HTML/witness.html	False
+dads-1288	work	work	https://xlinux.nist.gov/dads/HTML/work.html	False
+dads-1289	work-depth model	work-depth model	https://xlinux.nist.gov/dads/HTML/workdepthmdl.html	False
+dads-1290	work-efficient	work-efficient	https://xlinux.nist.gov/dads/HTML/workefficint.html	False
+dads-1291	work-preserving	work-preserving	https://xlinux.nist.gov/dads/HTML/workpreserv.html	False
+dads-1292	worst case	worst case	https://xlinux.nist.gov/dads/HTML/worstcase.html	False
+dads-1293	worst-case cost	worst-case cost	https://xlinux.nist.gov/dads/HTML/worstcaseCost.html	False
+dads-1294	worst-case execution time	worst-case execution time	https://xlinux.nist.gov/dads/HTML/worstCaseExecutionTime.html	False
+dads-1295	worst-case minimum access	worst-case minimum access	https://xlinux.nist.gov/dads/HTML/worstCaseMinimumAccess.html	False
+dads-1296	xor	xor	https://xlinux.nist.gov/dads/HTML/xor.html	False
+dads-1297	Yule distribution	Zipfian distribution	https://xlinux.nist.gov/dads/HTML/zipfian.html	True
+dads-1298	Zeller's congruence	Zeller's congruence	https://xlinux.nist.gov/dads/HTML/zellersCongruence.html	False
+dads-1299	0-ary function	0-ary function	https://xlinux.nist.gov/dads/HTML/zeroaryfunc.html	False
+dads-1300	0-based indexing	0-based indexing	https://xlinux.nist.gov/dads/HTML/zeroBasedIndexing.html	False
+dads-1301	0-1 knapsack problem	knapsack problem	https://xlinux.nist.gov/dads/HTML/knapsackProblem.html	True
+dads-1302	Zhu-Takaoka	Zhu-Takaoka	https://xlinux.nist.gov/dads/HTML/zhuTakaoka.html	False
+dads-1303	Zipfian distribution	Zipfian distribution	https://xlinux.nist.gov/dads/HTML/zipfian.html	False
+dads-1304	Zipf's law	Zipf's law	https://xlinux.nist.gov/dads/HTML/zipfslaw.html	False
+dads-1305	zipper	zipper	https://xlinux.nist.gov/dads/HTML/zipper.html	False
+dads-1306	ZPP	ZPP	https://xlinux.nist.gov/dads/HTML/zpp.html	False

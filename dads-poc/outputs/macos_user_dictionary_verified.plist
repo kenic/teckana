@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>phrase</key>
+		<string>AVL木</string>
+		<key>shortcut</key>
+		<string>えーぶいえるき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>平衡木</string>
+		<key>shortcut</key>
+		<string>へいこうぎ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>二分探索木</string>
+		<key>shortcut</key>
+		<string>にぶんたんさくぎ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>二分木</string>
+		<key>shortcut</key>
+		<string>にぶんぎ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>B木</string>
+		<key>shortcut</key>
+		<string>びーき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>有向非巡回グラフ</string>
+		<key>shortcut</key>
+		<string>ゆうこうひじゅんかいぐらふ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>NIST</string>
+		<key>shortcut</key>
+		<string>にすと</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>FIFO</string>
+		<key>shortcut</key>
+		<string>ふぁいふぉ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>LIFO</string>
+		<key>shortcut</key>
+		<string>らいふぉ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ANSI</string>
+		<key>shortcut</key>
+		<string>あんじー</string>
+	</dict>
+</array>
+</plist>
